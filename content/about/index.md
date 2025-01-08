@@ -1,0 +1,26 @@
++++
+date = '2024-12-06T17:23:24-06:00'
+draft = false
+title = 'Sobre mí'
+
+toc = false
+
++++
+
+⚠️ *Este sitio web se encuentra bajo construcción/importación de otra fuente.* ⚠️
+
+### ¿Quién soy?
+Soy Daniel Muñoz Lozano, tengo 22 años y actualmente estudio la doble titulación de Economía y Derecho en el Tecnológico de Monterrey. Me considero una persona valiente y curiosa, intentando ser humilde y magnánimo. Mi religión católica guía todas mis decisiones y es un componente esencial de mi identidad.
+
+### Mis intereses
+Videografía, política, economía, software libre, entrenamiento canino, gimnasio, catolicismo
+
+### Mis obras favoritas
+- **Divina Commedia** - Dante Alighieri
+- **Models: Attract Women Through Honesty** - Mark Manson
+- **Manhood in the Making: Cultural Concepts of Masculinity** - David D. Gilmore
+- **Boys Adrift: The Five Factors Driving the Growing Epidemic of Unmotivated Boys and Underachieving Young Men** - Leonard Sax
+- **Industrial Society and Its Future** - Theodore Kaczynski
+
+### Atribuciones, créditos y redistribución
+Este sitio fue creado con [Hugo](https://gohugo.io) y el tema [Stack](https://github.com/CaiJimmy/hugo-theme-stack) de [Jimmy](https://jimmycai.com). Además, todo el contenido de este sitio está protegido bajo la licencia CC BY-NC-SA 4.0, lo cual a grandes rasgos significa que se puede redistribuir siempre y cuando se proporcione crédito al autor y se redistribuya bajo la misma licencia.
