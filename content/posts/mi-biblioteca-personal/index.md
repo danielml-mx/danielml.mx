@@ -53,3 +53,6 @@ Dicen que puedes aprender mucho de un hombre en base a los libros que tiene en s
 ### El príncipe - Nicolás Maquiavelo
 ## **1984 - George Orwell**
 ### The Art of War - Sun Tzu
+### The Black Swan: The Impact of the Highly Improbable - Nassim Nicholas Taleb
+### Antifragile: Things That Gain From Disorder - Nassim Nicholas Taleb
+### Skin in the Game: Hidden Asymmetries in Daily Life - Nassim Nicholas Taleb
