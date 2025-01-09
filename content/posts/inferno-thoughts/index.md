@@ -4,7 +4,7 @@ draft = false
 title = 'Inferno, Dante Alighieri (John Ciardi Translation) - Thoughts'
 toc = false
 image = 'inferno_dante.jpg'
-tags = ["religión ✝️", "personal"]
+tags = ["religión ✝️" ]
 +++
 
 <p style="text-align: center"><i>Esta es una de mis publicaciones viejas, escrita a finales del 2021. Más que una crítica o reseña del poema, es un intento de vendérselo al público general. Me da un poco de cringe el estilo con el cual escribía antes, pero igual decido publicarla. Más importante, evité ahondar en el tema de la religión para hacer la publicación más acogedora para el público general, algo que nunca haría hoy.</i></p>
