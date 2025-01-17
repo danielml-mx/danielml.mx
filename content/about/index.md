@@ -7,8 +7,6 @@ toc = false
 
 +++
 
-⚠️ *Este sitio web se encuentra bajo construcción/importación de otra fuente.* ⚠️
-
 ### ¿Quién soy?
 Soy Daniel Muñoz Lozano, tengo 22 años y actualmente estudio la doble titulación de Economía y Derecho en el Tecnológico de Monterrey. Me considero una persona valiente y curiosa, intentando ser humilde y magnánimo. Mi religión católica guía todas mis decisiones y es un componente esencial de mi identidad.
 
