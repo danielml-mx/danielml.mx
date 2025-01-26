@@ -38,5 +38,8 @@ Incluso la Inquisición española, considerada popularmente la más celosa de to
 - *Carta al Card. Roger Etchegaray con motivo de la publicación de las Actas del Congreso Internacional sobre la Inquisición*. (15 de junio de 2004). La Santa Sede. https://www.vatican.va/content/john-paul-ii/es/letters/2004/documents/hf_jp-ii_let_20040615_simposio-inquisizione.html
 
 
+#### "Yo sólo sigo la Palabra de Dios, no las tradiciones de los hombres"
 
-<!-- #### "La Iglesia católica no es la verdadera Iglesia de Cristo porque ..." -->
+La idea de que la fe cristiana es algo que se puede interpretar sólo a través de la escritura es un precursor a la racionalización de varios aspectos de nuestra sociedad. Si padeces de monocromatismo, pero estudias arduamente el color rojo y las propiedades del espectro de luz visible que lo constituyen, ¿realmente sabes lo que es el color rojo? ¿Es lo mismo leer y hasta ver fotos de Río de Janeiro que visitarlo? En un sentido epistemológico, sería difícil concluir que estos dos objetos de estudio se pueden conocer exclusivamente a través de las facultades lógico-racionales del ser humano. De la misma manera, el verdadero cristianismo (y la religión en general) no es algo que se comprende al creerlo tanto como se comprende al vivirlo, y como católicos debemos de vivirlo de la manera que Cristo nos enseñó, cosa que no hizo a través de libros, sino a través de sus obras, las cuales hoy hemos instituido como tradición. Sólo observa los desarrollos en las "iglesias" que, por tomar la escritura como fuente única de revelación, han abandonado la tradición.
+
+Por otro lado, este argumento viene cargado de una desconfianza inherente hacia el prójimo. A fin de ahorrarme una larga explicación hago la siguiente pregunta: si Cristo le confió las llaves de su Iglesia a un hombre, ¿bajo qué autoridad desconfías tú de ellos?
