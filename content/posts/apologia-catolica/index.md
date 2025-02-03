@@ -2,6 +2,7 @@
 date = '2025-01-08T20:23:13-06:00'
 draft = false
 title = 'Apología católica: refutaciones a argumentos comunes'
+tags = ["religión ✝️"]
 +++
 
 Lo que procede es un repositorio de argumentos comunes en contra del catolicismo acompañados cada uno de una refutación definitiva, así como fuentes adicionales para quienes estén interesados en profundizar sobre dichas refutaciones.

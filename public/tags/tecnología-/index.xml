@@ -6,7 +6,59 @@
         <description>Recent content in Tecnología 💻 on Daniel Muñoz Lozano</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 13 Dec 2024 12:01:12 -0600</lastBuildDate><atom:link href="https://danielml.mx/tags/tecnolog%C3%ADa-/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 02 Feb 2025 10:40:15 -0600</lastBuildDate><atom:link href="https://danielml.mx/tags/tecnolog%C3%ADa-/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hardware y software que uso</title>
+        <link>https://danielml.mx/posts/hardware-y-software-que-uso/</link>
+        <pubDate>Sun, 02 Feb 2025 10:40:15 -0600</pubDate>
+        
+        <guid>https://danielml.mx/posts/hardware-y-software-que-uso/</guid>
+        <description>&lt;img src="https://danielml.mx/posts/hardware-y-software-que-uso/screenshot-020225-111003.png" alt="Featured image of post Hardware y software que uso" /&gt;&lt;p&gt;Dejo aquí una lista de todas las herramientas y programas que uso cotidianamente. En general priorizo programas libres, ligeros, rápidos y estéticos que sigan la &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Unix_philosophy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;filosofía de UNIX&lt;/a&gt;, mientras que para &lt;em&gt;hardware&lt;/em&gt; busco que puedan cumplir con varios propósitos. Esto significa que aquí no vas a ver nada restrictivo y gordo como las Macs, Windows, Adobe Reader, Chrome, etc.&lt;/p&gt;
+&lt;p&gt;Puedes consultar los archivos de configuración de muchos de los programas mencionados en mi GitHub.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Computadora:&lt;/strong&gt; ThinkPad L13 Yoga Gen 2 con un procesador 11th Gen Intel i5-1145G7 (8) @ 4.400GHz
+&lt;ul&gt;
+&lt;li&gt;Esta laptop es lo más cercano que he encontrado a una laptop perfecta. Incluye un trackpoint, una pantalla táctil con pluma y un factor de forma ligero, aunque desearía que fuera tan sólo un poco más pequeña la relación de aspecto, algo así como la X200 clásica, y además como muchas laptops modernas las opciones de mejora son limitadas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sistema operativo:&lt;/strong&gt; Artix Linux
+&lt;ul&gt;
+&lt;li&gt;Arch Linux sin SystemD. En realidad sólo lo uso porque me quiero sentir especial y diferente al resto de los usuarios de Arch, pero es básicamente lo mismo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Manejador de ventanas:&lt;/strong&gt; dwm
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/danielml-mx/dwm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fork personal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hace mucho tiempo utilizaba KDE y me pareció el mejor entorno de escritorio de las opciones disponibles. También he intentado Wayland, particularmente hyprland, pero no me parece que esté suficientemente desarrollado todavía.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compositor:&lt;/strong&gt; picom&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Terminal:&lt;/strong&gt; st&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shell:&lt;/strong&gt; zsh
+&lt;ul&gt;
+&lt;li&gt;No utilizo ohmyzsh, pero sí he instalado los plugins de autocomplete, autosuggestions y syntax-highlighting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Editor de texto:&lt;/strong&gt; neovim&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Navegador de archivos:&lt;/strong&gt; lf con ueberzugpp&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Navegador web:&lt;/strong&gt; LibreWolf
+&lt;ul&gt;
+&lt;li&gt;Fork de Firefox orientada a la privacidad y seguridad, aunque debo admitir que algunas de las funcionalidades que esperas de la web moderna no siempre funcionan con LibreWolf.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visualizador de documentos:&lt;/strong&gt; sioyek
+&lt;ul&gt;
+&lt;li&gt;Anteriormente utilizaba zathura (&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=d6zodqSFN60&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;video&lt;/a&gt;), sin embargo se volvió bastante inestable. Ahora uso un fork personal de sioyek que restaura la funcionalidad de operar en diferentes instancias, cosa que permite que las ventanas sean devoradas correctamente por la terminal. (Ya he abierto un reporte en GitHub para que se restaure esta funcionalidad. Espero se haga, y si no, subiré mi propia versión.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visualizador de imágenes:&lt;/strong&gt; sxiv&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Daemon de notificaciones:&lt;/strong&gt; dunst&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>Removing the Supervisor Password on a Thinkpad</title>
         <link>https://danielml.mx/posts/removing-the-supervisor-password-on-a-thinkpad/</link>
         <pubDate>Fri, 13 Dec 2024 12:01:12 -0600</pubDate>

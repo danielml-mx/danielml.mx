@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://danielml.mx/</loc>
+    <lastmod>2025-02-02T10:40:15-06:00</lastmod>
+  </url><url>
+    <loc>https://danielml.mx/posts/hardware-y-software-que-uso/</loc>
+    <lastmod>2025-02-02T10:40:15-06:00</lastmod>
+  </url><url>
+    <loc>https://danielml.mx/tags/linux-/</loc>
+    <lastmod>2025-02-02T10:40:15-06:00</lastmod>
+  </url><url>
+    <loc>https://danielml.mx/tags/personal/</loc>
+    <lastmod>2025-02-02T10:40:15-06:00</lastmod>
+  </url><url>
+    <loc>https://danielml.mx/posts/</loc>
+    <lastmod>2025-02-02T10:40:15-06:00</lastmod>
+  </url><url>
+    <loc>https://danielml.mx/tags/</loc>
+    <lastmod>2025-02-02T10:40:15-06:00</lastmod>
+  </url><url>
+    <loc>https://danielml.mx/tags/tecnolog%C3%ADa-/</loc>
+    <lastmod>2025-02-02T10:40:15-06:00</lastmod>
+  </url><url>
     <loc>https://danielml.mx/posts/apologia-catolica/</loc>
     <lastmod>2025-01-08T20:23:13-06:00</lastmod>
   </url><url>
-    <loc>https://danielml.mx/</loc>
-    <lastmod>2025-01-08T20:23:13-06:00</lastmod>
-  </url><url>
-    <loc>https://danielml.mx/posts/</loc>
+    <loc>https://danielml.mx/tags/religi%C3%B3n-%EF%B8%8F/</loc>
     <lastmod>2025-01-08T20:23:13-06:00</lastmod>
   </url><url>
     <loc>https://danielml.mx/posts/purgatorio-thoughts/</loc>
-    <lastmod>2024-12-18T00:39:48-06:00</lastmod>
-  </url><url>
-    <loc>https://danielml.mx/tags/religi%C3%B3n-%EF%B8%8F/</loc>
-    <lastmod>2024-12-18T00:39:48-06:00</lastmod>
-  </url><url>
-    <loc>https://danielml.mx/tags/</loc>
     <lastmod>2024-12-18T00:39:48-06:00</lastmod>
   </url><url>
     <loc>https://danielml.mx/posts/1984-orwell-thoughts/</loc>
@@ -35,16 +47,10 @@
     <loc>https://danielml.mx/posts/on-modern-incontinence/</loc>
     <lastmod>2024-12-17T23:32:51-06:00</lastmod>
   </url><url>
-    <loc>https://danielml.mx/tags/linux-/</loc>
-    <lastmod>2024-12-13T17:13:36-06:00</lastmod>
-  </url><url>
     <loc>https://danielml.mx/posts/wpa_supplicant-a-practical-guide/</loc>
     <lastmod>2024-12-13T17:13:36-06:00</lastmod>
   </url><url>
     <loc>https://danielml.mx/posts/removing-the-supervisor-password-on-a-thinkpad/</loc>
-    <lastmod>2024-12-13T12:01:12-06:00</lastmod>
-  </url><url>
-    <loc>https://danielml.mx/tags/tecnolog%C3%ADa-/</loc>
     <lastmod>2024-12-13T12:01:12-06:00</lastmod>
   </url><url>
     <loc>https://danielml.mx/posts/el-salon-de-fama-de-dios/</loc>
@@ -54,9 +60,6 @@
     <lastmod>2024-12-10T19:53:49-06:00</lastmod>
   </url><url>
     <loc>https://danielml.mx/posts/mi-biblioteca-personal/</loc>
-    <lastmod>2024-12-06T21:02:59-06:00</lastmod>
-  </url><url>
-    <loc>https://danielml.mx/tags/personal/</loc>
     <lastmod>2024-12-06T21:02:59-06:00</lastmod>
   </url><url>
     <loc>https://danielml.mx/about/</loc>
