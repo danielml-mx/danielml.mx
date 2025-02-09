@@ -56,3 +56,4 @@ Dicen que puedes aprender mucho de un hombre en base a los libros que tiene en s
 ### The Black Swan: The Impact of the Highly Improbable - Nassim Nicholas Taleb
 ### Antifragile: Things That Gain From Disorder - Nassim Nicholas Taleb
 ### Skin in the Game: Hidden Asymmetries in Daily Life - Nassim Nicholas Taleb
+### La Biblia de Jerusalén - Great Adventure Bible
