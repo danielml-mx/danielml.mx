@@ -47,12 +47,19 @@
     &gt;st&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shell:&lt;/strong&gt; zsh
 &lt;ul&gt;
-&lt;li&gt;No utilizo ohmyzsh, pero sí he instalado los plugins de autocomplete, autosuggestions y syntax-highlighting.&lt;/li&gt;
+&lt;li&gt;No utilizo ohmyzsh, sino he instalado los plugins de autocomplete, autosuggestions y syntax-highlighting.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Editor de texto:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://neovim.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;neovim&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Navegador de archivos:&lt;/strong&gt; lf con ueberzugpp&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Navegador de archivos:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://github.com/sxyazi/yazi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;yazi&lt;/a&gt; con &lt;a class=&#34;link&#34; href=&#34;https://github.com/jstkdng/ueberzugpp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ueberzugpp&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Antes usaba &lt;a class=&#34;link&#34; href=&#34;https://github.com/gokcehan/lf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;lf&lt;/a&gt; con UB, y me sigue agradando bastante como programa pues, a diferencia de yazi, no intenta reimplementar tareas que deben delegarse a otros programas. Aun así, yazi simplemente tiene más capacidades de personalización y extensibilidad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Navegador web:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://librewolf.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;LibreWolf&lt;/a&gt;
 &lt;ul&gt;
@@ -63,7 +70,7 @@
     &gt;sioyek&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;Anteriormente utilizaba zathura (&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=d6zodqSFN60&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;video&lt;/a&gt;), sin embargo se volvió bastante inestable. Ahora uso un fork personal de sioyek que restaura la funcionalidad de operar en diferentes instancias, cosa que permite que las ventanas sean devoradas correctamente por la terminal. (Ya he abierto un reporte en GitHub para que se restaure esta funcionalidad. Espero se haga, y si no, subiré mi propia versión.)&lt;/li&gt;
+    &gt;video&lt;/a&gt;), sin embargo se volvió bastante inestable.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Visualizador de imágenes:&lt;/strong&gt; sxiv&lt;/li&gt;

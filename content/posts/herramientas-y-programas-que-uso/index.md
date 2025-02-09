@@ -27,13 +27,14 @@ Todos estos programas se encuentra o en los repositorios oficiales de Arch o en 
 - **Audio:** [PipeWire](https://wiki.archlinux.org/title/PipeWire)
 - **Terminal:** [st](https://st.suckless.org/)
 - **Shell:** zsh
-    - No utilizo ohmyzsh, pero sí he instalado los plugins de autocomplete, autosuggestions y syntax-highlighting.
+    - No utilizo ohmyzsh, sino he instalado los plugins de autocomplete, autosuggestions y syntax-highlighting.
 - **Editor de texto:** [neovim](https://neovim.io/)
-- **Navegador de archivos:** lf con ueberzugpp
+- **Navegador de archivos:** [yazi](https://github.com/sxyazi/yazi) con [ueberzugpp](https://github.com/jstkdng/ueberzugpp)
+    - Antes usaba [lf](https://github.com/gokcehan/lf) con UB, y me sigue agradando bastante como programa pues, a diferencia de yazi, no intenta reimplementar tareas que deben delegarse a otros programas. Aun así, yazi simplemente tiene más capacidades de personalización y extensibilidad.
 - **Navegador web:** [LibreWolf](https://librewolf.net/)
     - Fork de Firefox orientada a la privacidad y seguridad, aunque debo admitir que algunas de las funcionalidades que esperas de la web moderna no siempre funcionan con LibreWolf.
 - **Visualizador de documentos:** [sioyek](https://github.com/ahrm/sioyek)
-    - Anteriormente utilizaba zathura ([video](https://www.youtube.com/watch?v=d6zodqSFN60)), sin embargo se volvió bastante inestable. Ahora uso un fork personal de sioyek que restaura la funcionalidad de operar en diferentes instancias, cosa que permite que las ventanas sean devoradas correctamente por la terminal. (Ya he abierto un reporte en GitHub para que se restaure esta funcionalidad. Espero se haga, y si no, subiré mi propia versión.)
+    - Anteriormente utilizaba zathura ([video](https://www.youtube.com/watch?v=d6zodqSFN60)), sin embargo se volvió bastante inestable.
 - **Visualizador de imágenes:** sxiv
 - **Daemon de notificaciones:** dunst
 
