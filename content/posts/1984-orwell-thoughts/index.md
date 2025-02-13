@@ -2,7 +2,6 @@
 date = '2024-12-18T00:12:11-06:00'
 draft = false
 title = '1984, George Orwell - Thoughts'
-image = 'MassSurveillance.jpg'
 tags = ["filosofía 🤔", "política 📜"]
 +++
 

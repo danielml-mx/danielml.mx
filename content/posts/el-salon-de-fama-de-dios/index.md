@@ -2,7 +2,6 @@
 date = '2024-12-13T09:58:18-06:00'
 draft = false
 title = 'El salón de fama de Dios'
-image = 'cover.jpeg'
 tags = ["religión ✝️"]
 +++
 
