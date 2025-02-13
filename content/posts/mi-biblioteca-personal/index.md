@@ -4,7 +4,6 @@ draft = false
 title = 'Mi biblioteca personal'
 tags = ["personal"]
 toc = false
-image = "cover.png"
 +++
 
 Dicen que puedes aprender mucho de un hombre en base a los libros que tiene en su estante. Presento aquí entonces, en ningún orden en particular, una lista casi exhaustiva de los libros que tengo físicamente. Dicho esto, no porque los tenga significa que los haya leído, y no porque un libro no aparezca aquí significa que no lo haya leído, pues francamente la mayoría de los libros los he pirateado digitalmente. Aun así, muchos de estos libros tienen un lugar especial en mi corazón, especialmente aquellos resaltados.
