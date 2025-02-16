@@ -5,8 +5,114 @@
         <link>https://danielml.mx/</link>
         <description>Recent content on Daniel Muñoz Lozano</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Sun, 02 Feb 2025 10:40:15 -0600</lastBuildDate><atom:link href="https://danielml.mx/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>es-mx</language>
+        <lastBuildDate>Wed, 12 Feb 2025 23:35:49 -0600</lastBuildDate><atom:link href="https://danielml.mx/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Guía de post-instalación de Arch Linux</title>
+        <link>https://danielml.mx/posts/guia-de-post-instalacion-de-arch-linux/</link>
+        <pubDate>Wed, 12 Feb 2025 23:35:49 -0600</pubDate>
+        
+        <guid>https://danielml.mx/posts/guia-de-post-instalacion-de-arch-linux/</guid>
+        <description>&lt;p&gt;Esta página es material complementario de &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=ucm74RJzdnk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;mi video explicando la post-instalación de Arch Linux&lt;/a&gt;. Para más información puedes consultar la &lt;a class=&#34;link&#34; href=&#34;https://wiki.archlinux.org/title/General_recommendations&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;guía de recomendaciones generales&lt;/a&gt; de Arch Linux.&lt;/p&gt;
+&lt;h3 id=&#34;crear-un-nuevo-usuario&#34;&gt;Crear un nuevo usuario
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;useradd -m -G wheel &amp;lt;usuario&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;passwd &amp;lt;usuario&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;establecer-privilegios-sudo&#34;&gt;Establecer privilegios sudo
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;visudo&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;entrar-como-usuario&#34;&gt;Entrar como usuario
+&lt;/h4&gt;&lt;h3 id=&#34;conectarse-a-internet&#34;&gt;Conectarse a internet
+&lt;/h3&gt;&lt;h4 id=&#34;generar-estanza-de-red&#34;&gt;Generar estanza de red
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;wpa_passphrase &amp;quot;Mi Red&amp;quot; &amp;quot;m¡-c0ntr45eña&amp;quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;wpa_passphrase &amp;quot;Mi Red&amp;quot; &amp;quot;m¡-c0ntr45eña&amp;quot; &amp;gt;&amp;gt; /etc/wpa-supplicant/wpa-supplicant.conf&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;habilitar-e-iniciar-servicios&#34;&gt;Habilitar e iniciar servicios
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;sudo systemctl enable wpa_supplicant.service dhcpcd.service&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;sudo systemctl start wpa_supplicant.service dhcpcd.service&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;instalar-entorno-gráfico&#34;&gt;Instalar entorno gráfico
+&lt;/h3&gt;&lt;h4 id=&#34;toma-una-decisión&#34;&gt;Toma una decisión&amp;hellip;
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Entorno de escritorio
+&lt;ul&gt;
+&lt;li&gt;KDE&lt;/li&gt;
+&lt;li&gt;xfce&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Manejador de ventanas (Xorg) / Compositor (Wayland)
+&lt;ul&gt;
+&lt;li&gt;dwm&lt;/li&gt;
+&lt;li&gt;i3&lt;/li&gt;
+&lt;li&gt;hyprland&lt;/li&gt;
+&lt;li&gt;sway&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;instalar-paquetes-básicos&#34;&gt;Instalar paquetes básicos
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Audio
+&lt;ul&gt;
+&lt;li&gt;PipeWire&lt;/li&gt;
+&lt;li&gt;PulseAudio&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Gráficos
+&lt;ul&gt;
+&lt;li&gt;Nvidia&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Fuentes de texto
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;sudo pacman -S ttf-liberation&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;sudo pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Página de manuales
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;sudo pacman -S man&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Navegador web
+&lt;ul&gt;
+&lt;li&gt;Firefox&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Explorador de archivos
+&lt;ul&gt;
+&lt;li&gt;Dolphin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Terminal
+&lt;ul&gt;
+&lt;li&gt;alacritty&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Editor de texto
+&lt;ul&gt;
+&lt;li&gt;neovim&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;comando-corrido&#34;&gt;Comando corrido
+&lt;/h4&gt;&lt;p&gt;&lt;code&gt;sudo pacman -S neovim alacritty dolphin firefox man ttf-liberation noto-fonts-cjk noto-fonts-emoji pipewire pipewire-pulse wireplumber git&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;repositorio-de-usuarios&#34;&gt;Repositorio de usuarios
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;yay
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;git clone https://aur.archlinux.org/yay-git.git &amp;amp;&amp;amp; cd yay-git/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;makepkg -si&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>Herramientas y programas que uso</title>
         <link>https://danielml.mx/posts/herramientas-y-programas-que-uso/</link>
         <pubDate>Sun, 02 Feb 2025 10:40:15 -0600</pubDate>

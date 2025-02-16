@@ -5,7 +5,7 @@ tags: []      # "linux 🐧"
               # "tecnología 💻"
               # "religión ✝️"
               # "personal"
-              # "filosofía 🤔"
+              # "filosofía 👨‍👩‍👦"
               # "política 📜"
 toc: false
 draft: true
