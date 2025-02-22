@@ -9,7 +9,7 @@ tags: ["filosofía 👨‍👩‍👦"]
               # "filosofía 👨‍👩‍👦"
               # "política 📜"
 toc: false
-draft: true
+draft: false
 ---
 
 ¿Cómo definirías tú la palabra 'racional'? Más importante
