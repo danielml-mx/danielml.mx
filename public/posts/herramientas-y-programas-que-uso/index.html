@@ -146,25 +146,6 @@
         
         
         <li >
-            <a href='/search' >
-                
-                
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="10" cy="10" r="7" />
-  <line x1="21" y1="21" x2="15" y2="15" />
-</svg>
-
-
-
-                
-                <span>Buscar</span>
-            </a>
-        </li>
-        
-        
-        <li >
             <a href='/archives' >
                 
                 
@@ -231,17 +212,128 @@
     </ol>
 </aside>
 
-    
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+            
+        
+            
+                <form action="/search/" class="search-form widget" >
+        <p>
+            <label>Búsqueda</label>
+            <input name="keyword" required placeholder="Escribe algo..." />
+        
+            <button title="Búsqueda">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+            </button>
+        </p>
+    </form>
+            
+        
+            
+                <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-infinity" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M9.828 9.172a4 4 0 1 0 0 5.656 a10 10 0 0 0 2.172 -2.828a10 10 0 0 1 2.172 -2.828 a4 4 0 1 1 0 5.656a10 10 0 0 1 -2.172 -2.828a10 10 0 0 0 -2.172 -2.828" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Archivo</h2>
+
+        
+        
+        
+        
+        
+        <div class="widget-archive--list">
+            <div class="archives-year">
+                    <a href="/archives/#2025">
+                        
+                            <span class="year">2025</span>
+                            <span class="count">3</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2024">
+                        
+                            <span class="year">2024</span>
+                            <span class="count">9</span>
+                        
+                    </a> 
+                </div>
+            
+        </div>
+    </section>
+            
+        
+            
+                <section class="widget tagCloud">
+    <div class="widget-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+    </div>
+    <h2 class="widget-title section-title">Etiquetas</h2>
+
+    <div class="tagCloud-tags">
+        
+            <a href="/tags/linux-/" class="font_size_4">
+                Linux 🐧
+            </a>
+        
+            <a href="/tags/religi%C3%B3n-%EF%B8%8F/" class="font_size_4">
+                Religión ✝️
+            </a>
+        
+            <a href="/tags/tecnolog%C3%ADa-/" class="font_size_4">
+                Tecnología 💻
+            </a>
+        
+            <a href="/tags/filosof%C3%ADa-/" class="font_size_2">
+                Filosofía 👨‍👩‍👦
+            </a>
+        
+            <a href="/tags/personal/" class="font_size_2">
+                Personal
+            </a>
+        
+            <a href="/tags/pol%C3%ADtica-/" class="font_size_1">
+                Política 📜
+            </a>
+        
+    </div>
+</section>
+            
+        
+    </aside>
+
 
             <main class="main full-width">
     <article class="has-image main-article">
     <header class="article-header">
         <div class="article-image">
             <a href="/posts/herramientas-y-programas-que-uso/">
-                <img src="/posts/herramientas-y-programas-que-uso/screenshot-020225-111003_hu_2ebb54962e598847.png"
-                        srcset="/posts/herramientas-y-programas-que-uso/screenshot-020225-111003_hu_2ebb54962e598847.png 800w, /posts/herramientas-y-programas-que-uso/screenshot-020225-111003_hu_2d37b32945d7f11d.png 1600w"
-                        width="800" 
-                        height="449" 
+                <img src="/posts/herramientas-y-programas-que-uso/screenshot-020225-111003.png"
+                        
+                        width="1917" 
+                        height="1077" 
                         loading="lazy"
                         alt="Featured image of post Herramientas y programas que uso" />
                 
@@ -407,9 +499,9 @@
         
         
             <div class="article-image">
-                <img src="/posts/instalacion-de-arch-linux/arch-install.02bf38652cd05749f66a912fe1b25f56_hu_73874768f50fb87a.png" 
-                        width="250" 
-                        height="150" 
+                <img src="/posts/instalacion-de-arch-linux/arch-install.02bf38652cd05749f66a912fe1b25f56.png" 
+                        width="1280" 
+                        height="720" 
                         loading="lazy"
                         alt="Featured image of post Instalación de Arch Linux"
                         

@@ -17,14 +17,14 @@ identifier = "about"
 [main.params]
 icon = "about"
 
-[[main]]
-name = "Buscar"
-url = "/search"
-identifier = "search"
-weight = 3
+#[[main]]
+#name = "Buscar"
+#url = "/search"
+#identifier = "search"
+#weight = 3
 
-[main.params]
-icon = "search"
+#[main.params]
+#icon = "search"
 
 [[main]]
 name = "Entradas"

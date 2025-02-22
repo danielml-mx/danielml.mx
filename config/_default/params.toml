@@ -55,6 +55,15 @@ limit = 10
 [[widgets.page]]
 type = "toc"
 
+[[widgets.page]]
+type = "search"
+
+[[widgets.page]]
+type = "archives"
+
+[[widgets.page]]
+type = "tag-cloud"
+
 [opengraph.twitter]
 site = ""
 card = "summary_large_image"
@@ -69,7 +78,8 @@ toggle = true
 default = "auto"
 
 [imageProcessing.cover]
-enabled = true
+#enabled = true
+enabled = false
 
 [imageProcessing.content]
 enabled = true
