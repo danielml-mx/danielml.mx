@@ -10,7 +10,13 @@ tags: ["filosofía 👨‍👩‍👦"]
               # "política 📜"
 toc: false
 draft: false
+image: "IMG_2514.JPG"
 ---
+<small>
+Imagen: Un póster a las afueras del Tecnológico de Monterrey
+promueve una reunión comunista, una de esas ideologías
+"racionales".
+</small>
 
 ¿Cómo definirías tú la palabra 'racional'? Más importante
 aún, ¿cómo distingues entre algo que es racional y algo que

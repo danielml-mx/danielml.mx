@@ -158,14 +158,9 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Editor de texto:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://neovim.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;neovim&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Navegador de archivos:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://github.com/sxyazi/yazi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;yazi&lt;/a&gt; con &lt;a class=&#34;link&#34; href=&#34;https://github.com/jstkdng/ueberzugpp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;ueberzugpp&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;Antes usaba &lt;a class=&#34;link&#34; href=&#34;https://github.com/gokcehan/lf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;lf&lt;/a&gt; con UB, y me sigue agradando bastante como programa pues, a diferencia de yazi, no intenta reimplementar tareas que deben delegarse a otros programas. Aun así, yazi simplemente tiene más capacidades de personalización y extensibilidad.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Navegador de archivos:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://github.com/gokcehan/lf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;lf&lt;/a&gt; con &lt;a class=&#34;link&#34; href=&#34;https://github.com/jstkdng/ueberzugpp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ueberzugpp&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Navegador web:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://librewolf.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;LibreWolf&lt;/a&gt;
 &lt;ul&gt;

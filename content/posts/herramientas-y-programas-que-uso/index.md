@@ -29,8 +29,7 @@ Todos estos programas se encuentra o en los repositorios oficiales de Arch o en 
 - **Shell:** zsh
     - No utilizo ohmyzsh, sino he instalado los plugins de autocomplete, autosuggestions y syntax-highlighting.
 - **Editor de texto:** [neovim](https://neovim.io/)
-- **Navegador de archivos:** [yazi](https://github.com/sxyazi/yazi) con [ueberzugpp](https://github.com/jstkdng/ueberzugpp)
-    - Antes usaba [lf](https://github.com/gokcehan/lf) con UB, y me sigue agradando bastante como programa pues, a diferencia de yazi, no intenta reimplementar tareas que deben delegarse a otros programas. Aun así, yazi simplemente tiene más capacidades de personalización y extensibilidad.
+- **Navegador de archivos:** [lf](https://github.com/gokcehan/lf) con [ueberzugpp](https://github.com/jstkdng/ueberzugpp)
 - **Navegador web:** [LibreWolf](https://librewolf.net/)
     - Fork de Firefox orientada a la privacidad y seguridad, aunque debo admitir que algunas de las funcionalidades que esperas de la web moderna no siempre funcionan con LibreWolf.
 - **Visualizador de documentos:** [sioyek](https://github.com/ahrm/sioyek)
