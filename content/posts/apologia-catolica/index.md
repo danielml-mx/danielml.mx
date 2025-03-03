@@ -44,3 +44,28 @@ Incluso la Inquisición española, considerada popularmente la más celosa de to
 La idea de que la fe cristiana es algo que se puede interpretar sólo a través de la escritura es un precursor a la racionalización de varios aspectos de nuestra sociedad. Si padeces de monocromatismo, pero estudias arduamente el color rojo y las propiedades del espectro de luz visible que lo constituyen, ¿realmente sabes lo que es el color rojo? ¿Es lo mismo leer y hasta ver fotos de Río de Janeiro que visitarlo? En un sentido epistemológico, sería difícil concluir que estos dos objetos de estudio se pueden conocer exclusivamente a través de las facultades lógico-racionales del ser humano. De la misma manera, el verdadero cristianismo (y la religión en general) no es algo que se comprende al creerlo tanto como se comprende al vivirlo, y como católicos debemos de vivirlo de la manera que Cristo nos enseñó, cosa que no hizo a través de libros, sino a través de sus obras, las cuales hoy hemos instituido como tradición. Sólo observa los desarrollos en las "iglesias" que, por tomar la escritura como fuente única de revelación, han abandonado la tradición.
 
 Por otro lado, este argumento viene cargado de una desconfianza inherente hacia el prójimo. A fin de ahorrarme una larga explicación hago la siguiente pregunta: si Cristo le confió las llaves de su Iglesia a un hombre, ¿bajo qué autoridad desconfías tú de ellos?
+
+#### "La Iglesia católica no es la verdadera Iglesia que Jesús fundó"
+
+Jesús fundó su Iglesia sobre Pedro, no sobre otro discípulo,
+ni siquiera sobre la Biblia. Hay muchas implicaciones a
+esto, pero la más importante es que la Iglesia está fundada
+**sobre una persona**, porque un libro nunca podría
+encapsular toda la información necesaria para vivir y
+practicar la fe, y ordenó que esa persona comenzara la
+Iglesia en Roma a fin de que se esparciera a través de todo
+el mundo.
+
+Fuera de eso, Jesús nunca fue a detalle sobre cómo deberían
+manejarse los asuntos de la Iglesia. Considerando que
+estamos hablando de un hombre perfecto, estoy fue muy
+probablemente intencional. Si bien existen legalismos y
+dogma en la Iglesia los cuales deben seguirse, es también
+importante reconocer que la Iglesia mantiene autonomía en
+cómo regir sus asuntos y puede cambiarlo conforme vea
+conveniente, razón por la cual el desarrollo del pontificado
+no excluye a la Iglesia católica de ser la verdadera Iglesia
+de Jesucristo.
+
+
+
