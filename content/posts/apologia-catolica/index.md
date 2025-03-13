@@ -48,13 +48,13 @@ Por otro lado, este argumento viene cargado de una desconfianza inherente hacia 
 #### "La Iglesia católica no es la verdadera Iglesia que Jesús fundó"
 
 Jesús fundó su Iglesia sobre Pedro, no sobre otro discípulo,
-ni siquiera sobre la Biblia. Hay muchas implicaciones a
+ni mucho menos sobre la Biblia. Hay muchas implicaciones a
 esto, pero la más importante es que la Iglesia está fundada
 **sobre una persona**, porque un libro nunca podría
 encapsular toda la información necesaria para vivir y
 practicar la fe, y ordenó que esa persona comenzara la
-Iglesia en Roma a fin de que se esparciera a través de todo
-el mundo.
+Iglesia en Roma a fin de que se esparciera dicha fe a través
+de todo el mundo.
 
 Fuera de eso, Jesús nunca fue a detalle sobre cómo deberían
 manejarse los asuntos de la Iglesia. Considerando que
