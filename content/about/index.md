@@ -7,6 +7,10 @@ toc = false
 
 +++
 
+<div style="text-align: center">
+  <img src="screenshot-032225-010141.png" style="width:70%; height:auto;">
+</div>
+
 ### ¿Quién soy?
 
 Soy Daniel Muñoz Lozano, tengo 22 años y soy muy devoto a mi

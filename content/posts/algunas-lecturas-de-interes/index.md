@@ -23,6 +23,7 @@ su fuente, pero sí que contienen ideas que opino deben ser
 más comunes en el discurso político actual.
 
 - [Industrial Society and Its Future](http://editions-hache.com/essais/pdf/kaczynski2.pdf) --- Theodore Kaczynski
+    - *"Our society tends to regard as a “sickness” any mode of thought or behavior that is inconvenient for the system, and this is plausible because when an individual doesn’t fit into the system it causes pain to the individual as well as problems for the system. Thus the manipulation of an individual to adjust him to the system is seen as a “cure” for a “sickness” and therefore as good."*
 
 - [The System's Neatest Trick](https://theanarchistlibrary.org/library/ted-kaczynski-the-system-s-neatest-trick) --- Theodore Kaczynski
     -  *"The System has played a trick on today's would-be revolutionaries and rebels. The trick is so cute that if it had been consciously planned one would have to admire it for its almost mathematical elegance."*
@@ -41,3 +42,7 @@ más comunes en el discurso político actual.
     - *"When a program respects users' freedom and community, we call it “free software.”"*
 
 - [Pump and Dump](https://radishmag.wordpress.com/2014/02/14/pump-and-dump/) --- Radish Mag
+    - *"Men traditionally sought to “better themselves” not because working in an office or on an assembly line was itself a source of delight, but because being a workingman enabled them to earn respect and made possible the joys of domestic life."*
+<!---
+        - [Are Boys Irrational?](http://web.archive.org/web/20131217120442/http://online.wsj.com/news/articles/SB10001424052702304403804579262291294720488) --- James Taranto
+        --->
