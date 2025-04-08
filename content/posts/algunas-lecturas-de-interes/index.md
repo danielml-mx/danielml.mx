@@ -29,7 +29,7 @@ más comunes en el discurso político actual.
     -  *"The System has played a trick on today's would-be revolutionaries and rebels. The trick is so cute that if it had been consciously planned one would have to admire it for its almost mathematical elegance."*
 
 - [Google's Ideological Echo Chamber](https://assets.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf) --- James Damore
-    - *"Google’s left bias has created a politically correct monoculture that maintains its hold  by shaming dissenters into silence. This silence removes any checks against encroaching  extremist and authoritarian policies."*
+    - *"Google’s left bias has created a politically correct monoculture that maintains its hold  by shaming dissenters into silence. This silence removes any checks against encroaching extremist and authoritarian policies."*
 
         - <u>Nota personal</u>: Antes de cambiarme de
           carrera, cuando estudiaba una ingeniería en
@@ -41,8 +41,13 @@ más comunes en el discurso político actual.
 - [Free Software Is Even More Important Now](https://www.gnu.org/philosophy/free-software-even-more-important.html) --- Richard Stallman
     - *"When a program respects users' freedom and community, we call it “free software.”"*
 
+
+- [Are Boys Irrational?](http://web.archive.org/web/20131217120442/http://online.wsj.com/news/articles/SB10001424052702304403804579262291294720488) --- James Taranto
+    - *"Men traditionally sought to “better themselves” not because working in an office or on an assembly line was itself a source of delight, but because being a workingman enabled them to earn respect and made possible the joys of domestic life."*
+
+
+<!--- 
 - [Pump and Dump](https://radishmag.wordpress.com/2014/02/14/pump-and-dump/) --- Radish Mag
     - *"Men traditionally sought to “better themselves” not because working in an office or on an assembly line was itself a source of delight, but because being a workingman enabled them to earn respect and made possible the joys of domestic life."*
-<!---
-        - [Are Boys Irrational?](http://web.archive.org/web/20131217120442/http://online.wsj.com/news/articles/SB10001424052702304403804579262291294720488) --- James Taranto
-        --->
+--->
+

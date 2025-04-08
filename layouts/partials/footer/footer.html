@@ -8,9 +8,18 @@
         {{ now.Format "2006" }} {{ default "Daniel Muñoz Lozano" .Site.Copyright }}
     </section>
     
+    <!--
     <section class="powerby">
         {{ with .Site.Params.footer.customText }}
             {{ . | safeHTML }} <br/>
+        {{ end }}
+    </section>
+    -->
+    <section class="powerby">
+        {{ range .Site.Data.quotes.quote | shuffle | first 1 }}
+        <div style="width: 100%;"> 
+            <p style="font-style: italic">{{.quote}}</p>
+        </div>
         {{ end }}
     </section>
 </footer>

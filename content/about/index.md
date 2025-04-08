@@ -28,8 +28,8 @@ Catolicismo, software libre, filosofía, epistemología
 
 ### Mis obras favoritas
 - **Divina Commedia** - Dante Alighieri
-- **Models: Attract Women Through Honesty** - Mark Manson
 - **Industrial Society and Its Future** - Theodore Kaczynski
+- **Models: Attract Women Through Honesty** - Mark Manson
 - **Skin in the Game: Hidden Asymmetries in Daily Life** - Nassim Nicholas Taleb
 - **Manhood in the Making: Cultural Concepts of Masculinity** - David D. Gilmore
 - **Boys Adrift: The Five Factors Driving the Growing Epidemic of Unmotivated Boys and Underachieving Young Men** - Leonard Sax
