@@ -1,0 +1,9 @@
+[build]
+  #command = "rm -rf public/ && hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.147.7"
+
+
+
