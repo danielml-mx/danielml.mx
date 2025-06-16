@@ -46,3 +46,7 @@ comerciales. Por otro lado, el [código de este sitio
 web](https://github.com/danielml-mx/danielml.mx) se puede
 redistribuir bajo los términos de la GPLv3 (la única
 licencia de código buena).
+
+### Contacto
+- Correo: [```yo@danielml.mx```](mailto:yo@danielml.mx)
+- Número: [```+52 81 8687 3759```](tel:528186873759)
