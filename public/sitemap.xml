@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://danielml.mx/posts/creatividad-en-la-era-de-la-inteligencia-artificial/</loc>
+    <lastmod>2025-06-16T17:40:28-06:00</lastmod>
+  </url><url>
     <loc>https://danielml.mx/</loc>
-    <lastmod>2025-04-08T00:42:48-06:00</lastmod>
+    <lastmod>2025-06-16T17:40:28-06:00</lastmod>
+  </url><url>
+    <loc>https://danielml.mx/posts/</loc>
+    <lastmod>2025-06-16T17:40:28-06:00</lastmod>
+  </url><url>
+    <loc>https://danielml.mx/tags/</loc>
+    <lastmod>2025-06-16T17:40:28-06:00</lastmod>
+  </url><url>
+    <loc>https://danielml.mx/tags/tecnolog%C3%ADa-/</loc>
+    <lastmod>2025-06-16T17:40:28-06:00</lastmod>
   </url><url>
     <loc>https://danielml.mx/posts/me-declaro-firmemente-en-contra-de-los-nerdos/</loc>
     <lastmod>2025-04-08T00:42:48-06:00</lastmod>
   </url><url>
     <loc>https://danielml.mx/tags/personal/</loc>
-    <lastmod>2025-04-08T00:42:48-06:00</lastmod>
-  </url><url>
-    <loc>https://danielml.mx/posts/</loc>
-    <lastmod>2025-04-08T00:42:48-06:00</lastmod>
-  </url><url>
-    <loc>https://danielml.mx/tags/</loc>
     <lastmod>2025-04-08T00:42:48-06:00</lastmod>
   </url><url>
     <loc>https://danielml.mx/posts/algunas-lecturas-de-interes/</loc>
@@ -24,9 +30,6 @@
     <lastmod>2025-03-17T16:46:15-06:00</lastmod>
   </url><url>
     <loc>https://danielml.mx/tags/pol%C3%ADtica-/</loc>
-    <lastmod>2025-03-17T16:46:15-06:00</lastmod>
-  </url><url>
-    <loc>https://danielml.mx/tags/tecnolog%C3%ADa-/</loc>
     <lastmod>2025-03-17T16:46:15-06:00</lastmod>
   </url><url>
     <loc>https://danielml.mx/posts/racionalismo-razon-y-tradicion/</loc>
