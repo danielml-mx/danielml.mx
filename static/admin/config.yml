@@ -3,8 +3,7 @@ backend:
   branch: master
 
 media_folder: "static/images" # Folder where user uploaded files should go
-media_library: 
-  name: images 
+public_folder: "images"
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/post
