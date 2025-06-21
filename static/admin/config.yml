@@ -1,0 +1,85 @@
+backend:
+  name: git-gateway
+  branch: master
+
+collections:
+  - name: "posts" # Used in routes, e.g., /admin/collections/post
+    label: "Artículos" # Used in the UI
+    folder: "content/posts" # The path to the folder where the documents are stored
+    path: "{{slug}}/index"
+    media_folder: "/content/posts/{{slug}}"  # Save images in the "content/posts/{slug}" folder.
+    public_folder: "/posts/{{slug}}"  # Serve the images from "/posts/{slug}" folder.
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - { label: "Draft", name: "draft", widget: "boolean", default: true, hint: "NO quites la marca de draft hasta que el artículo esté listo para publicar" }
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Fecha", name: "date", widget: "datetime" }
+      - { label: "Destacado", name: "featured", widget: "boolean", default: false, hint: "Controla si el artículo aparece en primera plana" }
+      - { label: "Imágen principal", name: "image", widget: "image" }
+      - { label: "ToC", name: "toc", widget: "boolean", default: false, hint: "Incluir un índice al lado del contenido" }
+      #- label: "Tags"
+      #  name: "tags"
+      #  widget: "select"
+      #  options:
+      #    - "Educación"
+      #    - "Elecciones"
+      #    - "En Campus"
+      #    - "Feminismo"
+      #    - "FYI"
+      #    - "LGBTQ+"
+      #    - "Local"
+      #    - "Medio Ambiente"
+      #    - "Nacional"
+      #    - "Opinión"
+      #    - "Poder Judicial"
+      #    - "Pueblos Indígenas"
+      #    - "Salud y Bienestar"
+      #    - "Tecnología"
+      #  hint: "Elige hasta tres temas"
+      #  multiple: true  # This allows selecting multiple tags
+#     - { label: "Descripción", name: "description", widget: "string" }
+      - { label: "Texto", name: "body", widget: "markdown" }
+#  - name: "pages"
+#    label: "Páginas"
+#    files:
+#      #- file: "content/_index.md"
+#      #  label: "Home Page"
+#      #  name: "home"
+#      #  fields:
+#      #    - { label: "Title", name: "title", widget: "string" }
+#      #    - { label: "Blurb", name: "blurb", widget: "text" }
+#      #    - {
+#      #        label: "Section",
+#      #        name: "section",
+#      #        widget: "object",
+#      #        fields:
+#      #          [
+#      #            { label: "Heading", name: "heading", widget: string },
+#      #            { label: "Text", name: "text", widget: "text" },
+#      #          ],
+#      #      }
+#      - file: "content/about.md"
+#        label: "Conócenos"
+#        name: "about"
+#        fields:
+#          - { label: "Title", name: "title", widget: "string" }
+#          - { label: "Featured Image", name: "image", widget: "image" }
+#          - { label: "Body", name: "body", widget: "markdown" }
+#      - file: "content/revista/index.md"
+#        label: "Revista"
+#        name: "revista"
+#        fields:
+#          - { label: "Title", name: "title", widget: "string" }
+#          - { label: "Body", name: "body", widget: "markdown" }
+#      - file: "content/ligas/index.md"
+#        label: "Ligas"
+#        name: "ligas"
+#        fields:
+#          - { label: "Title", name: "title", widget: "string" }
+#          - { label: "Body", name: "body", widget: "markdown" }
+#
+#          #slugify:
+#          #  remove_accents: true
+
+
+
