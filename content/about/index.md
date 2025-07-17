@@ -28,6 +28,7 @@ Catolicismo, software libre, filosofía, epistemología
 
 ### Mis obras favoritas
 - **Divina Commedia** - Dante Alighieri
+- **Los hermanos Karamázov** - Fiódor Dostoyevski
 - **Industrial Society and Its Future** - Theodore Kaczynski
 - **Models: Attract Women Through Honesty** - Mark Manson
 - **Skin in the Game: Hidden Asymmetries in Daily Life** - Nassim Nicholas Taleb
