@@ -43,7 +43,8 @@ notFound:
 widget:
     archives:
         title:
-            other: Archivo
+            #other: Archivo
+            other: Posts
 
         more:
             other: Más

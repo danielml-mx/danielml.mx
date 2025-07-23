@@ -27,7 +27,7 @@ icon = "about"
 #icon = "search"
 
 [[main]]
-name = "Entradas"
+name = "Publicaciones"
 url = "/archives"
 weight = 4
 identifier = "archives"
