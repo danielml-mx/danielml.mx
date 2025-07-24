@@ -10,7 +10,7 @@ tags: ["tecnología 💻"]
               # "política 📜"
 toc: false
 draft: false
-image: ''
+image: 'screenshot-072425-091706.png'
 ---
 
 *Este artículo fue publicado originalmente en la [revista

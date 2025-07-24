@@ -10,7 +10,7 @@ tags: [ "linux 🐧",  "tecnología 💻"]
               # "política 📜"
 toc: true
 draft: false
-image: ''
+image: 'screenshot-072425-094459.png'
 ---
 
 Esta página es material complementario de [mi video explicando la post-instalación de Arch Linux](https://www.youtube.com/watch?v=ucm74RJzdnk). Para más información puedes consultar la [guía de recomendaciones generales](https://wiki.archlinux.org/title/General_recommendations) de Arch Linux.

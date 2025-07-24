@@ -10,7 +10,7 @@ tags: ["filosofía 👨‍👩‍👦", "política 📜", "tecnología 💻"]
               # "política 📜"
 toc: false
 draft: false
-image: ''
+image: 'screenshot-072425-092653.png'
 ---
 
 Comparto aquí algunas lecturas y artículos breves que
