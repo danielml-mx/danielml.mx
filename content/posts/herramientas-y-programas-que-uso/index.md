@@ -45,7 +45,7 @@ configuración](https://github.com/danielml-mx/dotfiles).
 - **Terminal:** [st](https://st.suckless.org/) con [tabbed](https://github.com/danielml-mx/tabbed)
 - **Shell:** zsh
     - No utilizo ohmyzsh, sino he instalado los plugins de autocomplete, autosuggestions y syntax-highlighting.
-    - Para el prompt personalizado, utilizó [p10k](https://github.com/romkatv/powerlevel10k) instalado manualmente.
+    - Para el prompt personalizado, utilizo [p10k](https://github.com/romkatv/powerlevel10k) instalado manualmente.
 
 
 <div style="display: block; margin-left: auto; margin-right: auto; text-align: center; font-size: 1.4rem; font-family: var(--article-font-family); width: 90%;">

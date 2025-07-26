@@ -10,7 +10,7 @@ tags: ["filosofía 👨‍👩‍👦", "política 📜", "tecnología 💻"]
               # "política 📜"
 toc: false
 draft: false
-image: 'screenshot-072425-092653.png'
+image: 'screenshot-072425-181857.png'
 ---
 
 Comparto aquí algunas lecturas y artículos breves que
@@ -34,9 +34,7 @@ más comunes en el discurso político actual.
         - <u>Nota personal</u>: Antes de cambiarme de
           carrera, cuando estudiaba una ingeniería en
           desarrollo de software, era bien sabido que Google
-          sólo contrataba mujeres para sus internships. No
-          veo cómo esto no constituye discriminación. La
-          justicia demanda simetría.
+          sólo contrataba mujeres para sus internships.
 
 - [Free Software Is Even More Important Now](https://www.gnu.org/philosophy/free-software-even-more-important.html) --- Richard Stallman
     - *"When a program respects users' freedom and community, we call it “free software.”"*

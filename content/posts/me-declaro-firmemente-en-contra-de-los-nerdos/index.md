@@ -1,7 +1,7 @@
 ---
 title: 'ME DECLARO FIRMEMENTE EN CONTRA DE LOS NERDOS'
-date: '2025-04-08T00:42:48-06:00'
-tags: [personal]      # "linux 🐧"
+date: '2025-07-26T00:00:00-06:00'
+tags: [personal,  "filosofía 👨‍👩‍👦"]      # "linux 🐧"
               # "tecnología 💻"
               # "religión ✝️"
               # "personal"
@@ -9,62 +9,116 @@ tags: [personal]      # "linux 🐧"
               # "política 📜"
 toc: false
 draft: false
-image: 'nerd.jpg'
+image: 'nerd-2.jpg'
 ---
 
-> *Confesiones del ex-rey de los nerdos*
+> *"In theory there is no difference between theory and*
+> *practice; in practice, there is.* \
+> ---Yogi Berra
 
-Escribo este artículo porque estoy cansado de lidiar con
-nerdos en mi día a día. Expongo, pues, mi respuesta a esta
-creciente corriente filosófica a la cual cada vez más
-personas se adhieren, a mi parecer, incorrectamente.
-
-Fundamentalmente, el nerdo es alguien quien externaliza su
-identidad a fin de ser reconocido o visto. En algún punto de
-su vida, el nerdo notó que no es particularmente bueno
-siendo íntimo. Tal vez es particularmente penoso y callado,
-o tal vez se le dificulta reconocer sus emociones. Esto lo
-lleva a tener una personalidad subdesarrollada, a no
-conocerse a sí mismo, lo cual en sí lo lleva a ser algo
-solitario y recluido, incluso si en el fondo es en realidad
-una persona bastante agradable. Sin embargo, en lugar de
-buscar superar sus problemas de intimidad, en lugar de
-tratar ser normal y así tomar su lugar en la sociedad, el
-orgullo y el resentimiento llevan al nerdo a rechazar a las
-"sucias masas". Desde ese punto en adelante, el nerdo
-sustituye desarrollar una verdadera personalidad por
-demostrar que es mejor que el resto de las personas a su
+En el mundo de la academia es pan de cada día convivir con
+nerdos. En general son tolerables, agradables incluso, pero
+de vez en cuando dicen o hacen algo que me recuerda lo
+terriblemente equivocada que es su corriente filosófica y
+cuán dañina puede ser para ellos y para la gente a su
 alrededor.
 
-Cuando el nerdo externaliza su personalidad de tal manera,
-inevitablemente termina por seleccionar un dominio que lo
-represente mejor, pues no puede demostrar ser mejor en todo
-momento y en todo dominio. En el peor de los casos el objeto
-de su dedicación es algo inconsecuente, como los videojuegos
-o las series japonesas, con lo cual termina por desperdiciar
-valioso tiempo de su vida, mientras que en el mejor de los
-casos ---dentro de lo que cabe---, el objeto es algo
-productivo y beneficioso para sí mismo. "Yo soy un buen
-estudiante", se dice el nerdo, y admirablemente se esfuerza
-por serlo, cosa que le trae provecho y reconocimiento. Pero
-ahora que su identidad depende de serlo, cada error, cada
-minúsculo detalle que pudiera sugierir que no lo es
-perfectamente, se vuelve el detonante de una profunda
-inseguridad y una pequeña crisis de identidad. La dedicación
-rápidamente se desborda hacia la obsesión y pedantería, cosa
-que lo vuelve insufrible para las personas a su alrededor.
+## La nerdogénesis
 
-La verdadera tragedia, sin embargo, es que tarde o temprano
-la ausencia de una verdadera personalidad alcanzará al
-nerdo. En realidad, el nerdo se ha vuelto prisionero de su
-propia prisión. Él no se conoce, y por ende no está
-capacitado para tomar las decisiones más importantes con
-respecto a su futuro. El nerdo no piensa según sus
-intereses, sino según los intereses de la persona que piensa
-que debería ser, los cuales pueden ser ampliamente
-diferentes y, en los peores casos, incluso contrarios. El
-peor de los nerdos sacrificará el futuro que realmente
-quiere ---su carrera, su trabajo, incluso su pareja--- por
-el que piensa que debería querer, todo para recibir elogios
-que mantienen un vago sentimiento de una intimidad que el
-verdadero nerdo nunca obtendrá.
+La psicología del nerdo es la siguiente: En algún punto de
+su vida, el nerdo notó que no es particularmente bueno
+siendo social. Probablemente es medio penoso y callado, lo
+cual lo lleva a ser algo recluido, incluso si es en realidad
+una persona bastante agradable. Sin embargo, en lugar de
+reconocer esto como un problema y buscar solucionarlo,
+mejorándose en sus habilidades sociales y siendo más normal,
+el nerdo piensa que el problema no es responsabilidad suya,
+sino de la sociedad, pues esta no ha logrado incluirlo
+adecuadamente, y como no hay quien mejor represente a la
+sociedad que la gente promedio, quienes no tienen problema
+adaptándose socialmente, el nerdo se vuelve antagonista a la
+gente normal. En un desesperado intento por pertenecer, el
+nerdo sustituye desarrollar una verdadera personalidad por
+hiper-especializarse es un subdominio muy particular en el
+cual podrá confirmar que es, en efecto, mejor que el
+promedio ---incluso si es tan sólo en un aspecto mayormente
+irrelevante que, en realidad, a nadie le importa.
+
+Okay, tal vez estoy generalizando demasiado aquí tan sólo
+para divertirme, pero el punto es que el nerdo es alguien
+quien deriva un sentido de identidad de su especialización,
+que si bien llega a ser admirable por el nivel de dedicación
+y compromiso que puede demostrar, naturalmente prioriza más
+el demostrar complejidad sobre el ser útil.
+
+## La falacia de los nerdos
+
+Ello sería inofensivo y hasta algo tierno de no ser porque
+hoy en día el ambiente académico ---así como nuestra
+sociedad tecno-industrial en general--- está
+excepcionalmente desconectado de la realidad, de tal manera
+que somos increíblemente crédulos ante lo que es complejo y
+aparenta ser útil cuando en realidad no lo es. No
+jerarquizamos el conocimiento en una escala cuán útil es,
+sino en una escala de correcto/incorrecto (de cuán
+"racional" o "lógico" es), pero frecuentemente eso lleva a
+la acumulación de conocimiento que, si bien es puede ser
+correcto individualmente, es mayormente irrelevante. Nassim
+Nicholas Taleb, autor de *Skin in the Game* y de quien tomo
+prestadas varias ideas para este artículo, llama esto la
+falacia de la madera verde, gracias a una historia en la
+cual un comerciante hizo una fortuna vendiendo este tipo de
+madera ---sin tener la más mínima idea de que lo "verde"
+hace referencia a su frescura, no a su color---, mientras
+que alguien que conocía hasta el más íntimo detalle de esta
+fracasó.
+
+El verdadero potencial de daño, tanto de esta falacia como
+de los nerdos, quienes son su más grande víctima, surge
+cuando se habla de áreas en las cuales no existe un medio
+empírico para verificar los hechos y su utilidad ---en la
+academia, principalmente las ciencias sociales---, de tal
+manera que uno puede inventar teorías que forman narrativas
+aparentemente complejas, cohesivas y lógicas para nosotros,
+pero que en verdad están totalmente desconectadas de la
+realidad y que, traídas a la práctica, producen efectos
+completamente distintos a los esperados. Lo que es peor, la
+ausencia de este medio también implica que quienes inventan
+estas conclusiones nunca podrán ser desmentidos
+decisivamente, por lo cual no corren riesgo al postular sus
+conclusiones, por más disparatadas que puedan llegar a ser. 
+
+Freud, un completo nerdo y el autor de diversas teorías
+intuitivamente palpablemente falsas para cualquier persona
+normal ---envida del pene, complejo de Edipo, ansiedad de
+castración (literal)--- se llevó toda la fama y nunca sufrió
+consecuencia alguna por el daño que llegó a hacerle a sus
+pacientes, aun habiendo reconocido que no llegó a ayudar a
+ninguno. De una manera algo similar, Marx sigue siendo
+estudiado en las clases de teoría económica, incluso cuando
+sus teorías, por más lógicas que parezcan, en la práctica no
+han llevado a nada más que a la creación de estados
+totalitarios y, tarde o temprano, fallidos. No debería ser
+sorpresa entonces que en vida Marx fue un [completo
+fracasado](https://www.youtube.com/watch?v=heGapg-08yE&t=1072s).
+
+## Inteligencia de verdad
+
+Lo complejo frecuentemente aparenta ser inteligente, razón
+por la cual la gente que es premiada bajo el rubro de
+presentación siempre busca las soluciones más complicadas,
+sin embargo quienes actúan en práctica buscan siempre,
+aunque normalmente inconscientemente, las heurísticas más
+simples para resolver sus problemas. Observa, por ejemplo,
+lo que (el nerdo de) Richard Dawkins argumentó que ocurre
+dentro de la cabeza de un jugador de béisbol contra lo que
+en realidad ocurre (tomado de *Skin in the Game*):
+
+> *Richard Dawkins (…) argues that “He behaves as if he had solved a set of differential equations in predicting the trajectory of the ball. At some subconscious level, something functionally equivalent to the mathematical calculations is going on.” (…) Instead, experiments have shown that players rely on several heuristics. The gaze heuristic is the simplest one and works if the ball is already high up in the air: Fix your gaze on the ball, start running, and adjust your running speed so that the angle of gaze remains constant.*
+
+Por consiguiente, la inteligencia se puede definir más como
+la facilidad de alguien para encontrar la solución más
+simple a un determinado problema, cosa que depende más de la
+creatividad y el ingenio y menos de la complejidad y la
+memorización de factos diversos.
+
