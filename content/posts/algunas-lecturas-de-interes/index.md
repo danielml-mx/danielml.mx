@@ -25,6 +25,11 @@ más comunes en el discurso político actual.
 - [Industrial Society and Its Future](http://editions-hache.com/essais/pdf/kaczynski2.pdf) --- Theodore Kaczynski
     - *"Our society tends to regard as a “sickness” any mode of thought or behavior that is inconvenient for the system, and this is plausible because when an individual doesn’t fit into the system it causes pain to the individual as well as problems for the system. Thus the manipulation of an individual to adjust him to the system is seen as a “cure” for a “sickness” and therefore as good."*
 
+        - <u>Nota personal</u>: Aunque este ensayo contiene
+          varias posturas que considero ciertas,
+          particularmente en su primera mitad, [**rechazo**
+          **por completo su tesis principal**](../me-declaro-firmemente-en-contra-de-los-nerdos/).
+
 - [The System's Neatest Trick](https://theanarchistlibrary.org/library/ted-kaczynski-the-system-s-neatest-trick) --- Theodore Kaczynski
     -  *"The System has played a trick on today's would-be revolutionaries and rebels. The trick is so cute that if it had been consciously planned one would have to admire it for its almost mathematical elegance."*
 
