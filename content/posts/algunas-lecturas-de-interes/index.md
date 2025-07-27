@@ -28,10 +28,17 @@ más comunes en el discurso político actual.
         - <u>Nota personal</u>: Aunque este ensayo contiene
           varias posturas que considero ciertas,
           particularmente en su primera mitad, [**rechazo**
-          **por completo su tesis principal**](../me-declaro-firmemente-en-contra-de-los-nerdos/).
+          **por completo su tesis
+          principal**](../me-declaro-firmemente-en-contra-de-los-nerdos/).
+          Al respecto es relevante la tercera lectura
+          proporcionada.
 
 - [The System's Neatest Trick](https://theanarchistlibrary.org/library/ted-kaczynski-the-system-s-neatest-trick) --- Theodore Kaczynski
     -  *"The System has played a trick on today's would-be revolutionaries and rebels. The trick is so cute that if it had been consciously planned one would have to admire it for its almost mathematical elegance."*
+
+- [How—and How Not—to Love
+  Mankind](https://www.city-journal.org/article/how-and-how-not-to-love-mankind) --- Theodore Dalrymple
+    - *"Almost every intellectual claims to have the welfare of humanity, and particularly the welfare of the poor, at heart: but since no mass murder takes place without its perpetrators alleging that they are acting for the good of mankind, philanthropic sentiment can plainly take a multiplicity of forms. Two great European writers of the nineteenth century, Ivan Turgenev and Karl Marx, illustrate this diversity with vivid clarity."*
 
 - [Google's Ideological Echo Chamber](https://assets.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf) --- James Damore
     - *"Google’s left bias has created a politically correct monoculture that maintains its hold  by shaming dissenters into silence. This silence removes any checks against encroaching extremist and authoritarian policies."*
