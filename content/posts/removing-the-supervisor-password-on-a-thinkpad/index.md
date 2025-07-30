@@ -3,6 +3,7 @@ date = '2024-12-13T12:01:12-06:00'
 draft = false
 title = 'Removing the Supervisor Password on a Thinkpad'
 tags = ["tecnología 💻"]
+image = "lx200-clipped.jpg"
 +++
 
 *Esta es una de mis publicaciones viejas, escrita a finales del 2021.*

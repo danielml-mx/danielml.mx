@@ -24,14 +24,16 @@ article:
         other: Tabla de contenido
 
     relatedContent:
-        other: Contenidos relacionados
+        other: Contenido relacionado
 
     lastUpdatedOn:
         other: Última actualización
 
     readingTime:
-        one: "Tiempo de lectura {{ .Count }} minuto"
-        other: "Tiempo de lectura {{ .Count }} minutos"
+        #one: "Tiempo de lectura {{ .Count }} minuto"
+        #other: "Tiempo de lectura {{ .Count }} minutos"
+        one: "{{ .Count }} minuto"
+        other: "{{ .Count }} minutos"
 
 notFound:
     title:
@@ -64,7 +66,7 @@ search:
         other: Escribe algo...
 
     resultTitle:
-        other: "#PAGES_COUNT páginas en (#TIME_SECONDS segundos)"
+        other: "#PAGES_COUNT páginas en #TIME_SECONDS segundos"
 
 footer:
     builtWith:
