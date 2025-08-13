@@ -2,6 +2,7 @@
 date = ''
 draft = false
 title = 'Ligas'
+readingTime = false
 
 [[links]]
 title = "YouTube"

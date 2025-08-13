@@ -4,6 +4,7 @@ draft = false
 title = 'Sobre mí'
 
 toc = false
+readingTime = false
 
 +++
 

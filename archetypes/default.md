@@ -7,6 +7,7 @@ tags: []      # "linux 🐧"
               # "personal"
               # "filosofía 👨‍👩‍👦"
               # "política 📜"
+readingTime: true
 toc: false
 draft: true
 image: ''
