@@ -75,8 +75,8 @@ local = false
 src = ""
 
 [colorScheme]
-toggle = true
-default = "auto"
+toggle = false
+default = "dark"
 
 # optimize images
 [imageProcessing.cover]
