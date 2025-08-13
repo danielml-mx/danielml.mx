@@ -7,9 +7,9 @@ tags: [ "linux 🐧",  "tecnología 💻"]      # "linux 🐧"
               # "personal"
               # "filosofía 👨‍👩‍👦"
               # "política 📜"
-readingTime: false
+readingTime: true
 toc: false
-draft: true
+draft: false
 image: 'git-gud.png'
 ---
 Estos comandos son los que utilicé en mi video explicando
