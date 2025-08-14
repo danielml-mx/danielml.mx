@@ -117,8 +117,8 @@ en realidad ocurre (tomado de *Skin in the Game*):
 > *Richard Dawkins (…) argues that “He behaves as if he had solved a set of differential equations in predicting the trajectory of the ball. At some subconscious level, something functionally equivalent to the mathematical calculations is going on.” (…) Instead, experiments have shown that players rely on several heuristics. The gaze heuristic is the simplest one and works if the ball is already high up in the air: Fix your gaze on the ball, start running, and adjust your running speed so that the angle of gaze remains constant.*
 
 Por consiguiente, la inteligencia se puede definir más como
-la facilidad de alguien para encontrar la solución más
-simple a un determinado problema, cosa que depende más de la
-creatividad y el ingenio y menos de la complejidad y la
-memorización de factos diversos.
+la habilidad de alguien para **resolver**, para encontrar la
+solución más simple a un determinado problema, cosa que
+depende más de la creatividad y el ingenio y menos de la
+complejidad y la memorización de factos diversos.
 
