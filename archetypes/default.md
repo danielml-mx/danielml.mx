@@ -10,5 +10,5 @@ tags: []      # "linux 🐧"
 readingTime: true
 toc: false
 draft: true
-image: ''
+image: '/{{ .Section }}/{{ .Name }}/cover.jpg'
 ---
