@@ -186,6 +186,8 @@ autor](https://www.pastemagazine.com/tech/digital-media/sony-playstation-discove
 ¿Derecho a la libre movilidad? No te preocupes, [sabemos
 dónde estás](https://www.youtube.com/@TectonixGEO/videos).
 
+![No lo olvides, así es como te miran los tecnófilos.](zuck.jpg)
+
 Ahora bien, es cierto que el software libre probablemente no
 pueda resolver todas estas cuestiones ---en realidad, quizá
 sea la dura realización de que no todo debe ser
@@ -203,7 +205,7 @@ deshabilitado por quienes puedan modificar su código. En
 resumen, el software libre permite que el poder quede en
 manos de los muchos usuarios, no de los pocos quienes crean
 el software, y vale la pena apoyarlo a fin de evitar una
-tiránica y totalitaria invasión de nuestros derechos.
+tiránica y totalitaria invasión de nuestros derechos. Linux,
+entonces, es la puerta principal hacia este ideal.
 
 
-![No lo olvides, así es como te miran los tecnófilos.](zuck.jpg)
