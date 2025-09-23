@@ -10,7 +10,7 @@ tags: ["linux 🐧", "tecnología 💻"]
               # "política 📜"
 readingTime: true
 toc: false
-draft: true
+draft: false
 image: 'linux.png'
 ---
 
