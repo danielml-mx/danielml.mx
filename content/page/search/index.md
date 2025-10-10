@@ -1,7 +1,7 @@
-+++
-title = "Buscar"
-draft = false
-slug = "search"
-layout = "search"
-outputs = ["html", "json"]
-+++
+---
+title: "Buscar"
+draft: false
+slug: "search"
+layout: "search"
+outputs: ["html", "json"]
+---

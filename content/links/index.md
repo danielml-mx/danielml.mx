@@ -16,4 +16,9 @@ description = "Aquí puedes encontrar el código de mis proyectos."
 website = "https://github.com/danielml-mx"
 image = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
 
+[[links]]
+title = "Dicho & Derecho"
+description = "Sitio web donde publico artículos un poco más profesionales"
+website = "https://dichoyderecho.com.mx/authors/daniel-munoz-lozano/"
+image = "https://dichoyderecho.com.mx/images/logo.png"
 +++
