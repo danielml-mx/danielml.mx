@@ -1,5 +1,5 @@
 +++
-date = '2024-12-06T21:02:59-06:00'
+date = '2026-02-08'
 draft = false
 title = 'Mi biblioteca personal'
 tags = ["personal"]
@@ -56,3 +56,8 @@ Dicen que puedes aprender mucho de un hombre en base a los libros que tiene en s
 ### Antifragile: Things That Gain From Disorder - Nassim Nicholas Taleb
 ### Skin in the Game: Hidden Asymmetries in Daily Life - Nassim Nicholas Taleb
 ### La Biblia de Jerusalén - Great Adventure Bible
+### Flor de Vainilla - Héctor Rivera
+### Can't Hurt Me - David Goggins
+### Deja de ser tú - Joe Dispenza
+### El Grupo Monterrey: Crónica de una dinastía empresarial - Abraham Nuncio
+### What's Your Dream? - Simon Squibb
