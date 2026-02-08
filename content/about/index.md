@@ -14,18 +14,15 @@ readingTime = false
 
 ### ¿Quién soy?
 
-Soy Daniel Muñoz Lozano, tengo 22 años y soy muy devoto a mi
-fe católica, la cual guía todas mis decisiones y es un
-componente esencial de mi identidad. Me considero una
-persona honesta y valiente, intentando constantemente serlo
-todavía más.
-
-Actualmente estudio la doble titulación de Derecho y
-Economía en el Tecnológico de Monterrey.
+Soy Daniel Muñoz Lozano, tengo 23 años y soy muy devoto a mi
+fe católica. Me interesa la filosofía, la espistemología y el
+desarrollo de software.
 
 
+<!--
 ### Mis intereses
 Catolicismo, software libre, filosofía, epistemología
+-->
 
 ### Mis obras favoritas
 - **Divina Commedia** - Dante Alighieri
@@ -54,17 +51,3 @@ licencia de código buena).
 - Número: [``+52 81 8687 3759``](tel:528186873759) 
 
 ***
-
-> *"Amigos míos, pedidle a Dios alegría. Sed alegres como los
-niños, como los pájaros  del cielo. Y que en vuestro hacer
-no os turbe el pecado del hombre, no tengáis miedo  de que
-borre vuestra obra y le impida realizarse, no digáis:
-«Fuerte es el pecado,  fuerte es la impiedad, fuerte es el
-mal ambiente y nosotros estamos solos y sin fuerzas,  el mal
-ambiente nos anula y no permite que la buena obra dé fruto».
-¡Huid del  abatimiento! Solo hay una forma de salvarse:
-cargar con la responsabilidad de todos los pecados de los
-hombres. Amigo, en verdad esto es así, pues, en cuanto te
-hagas  sinceramente responsable de todo y de todos,
-inmediatamente verás que eso ocurre  en realidad y que tú
-eres culpable por todos y por todo."*

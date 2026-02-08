@@ -9,7 +9,7 @@ tags: ["filosofía 👨‍👩‍👦", "política 📜", "tecnología 💻"]
               # "filosofía 👨‍👩‍👦"
               # "política 📜"
 toc: false
-draft: false
+draft: true
 image: 'screenshot-072425-181857.png'
 ---
 
