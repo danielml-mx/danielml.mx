@@ -6,7 +6,7 @@ rssFullContent = true
 favicon = "/favicon.ico"
 
 [footer]
-customText = "B E L I E V E"
+customText = ""
 
 [dateFormat]
 published = "Jan 02, 2006"

@@ -72,14 +72,14 @@ icon = "link"
 #[social.params]
 #icon = "brand-twitter"
 
-[[social]]
-identifier = "youtube"
-name = "YouTube"
-url = "https://youtube.com/@danielml_mx"
-weight = 1
-
-[social.params]
-icon = "brand-youtube"
+#[[social]]
+#identifier = "youtube"
+#name = "YouTube"
+#url = "https://youtube.com/@danielml_mx"
+#weight = 1
+#
+#[social.params]
+#icon = "brand-youtube"
 
 [[social]]
 identifier = "github"
