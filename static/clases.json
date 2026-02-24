@@ -1,0 +1,22 @@
+[
+    {"id": "TC2007B",
+     "name": "Integración de seguridad informática en redes y sistemas de software",
+     "description": "Es un curso de nivel intermedio en tecnologías computacionales que incluye temas de ingeniería de software, seguridad en redes y desarrollo de aplicaciones móviles. Tiene como intención desarrollar en los alumnos competencias de configuración y validación de infraestructura computacional, integración de seguridad en proyectos computacionales, diseño y desarrollo de componentes de software, elaboración de pruebas de software, implantación de software, administración de proyectos computacionales, desarrollo de escenarios y compromiso ético y ciudadano. Requiere conocimientos previos de conceptos básicos de redes, metodologías de desarrollo de software y un nivel medio de programación orientada a objetos en lenguajes de alto nivel. Como resultado del aprendizaje, el alumno propone soluciones que integran seguridad en sistemas de software e infraestructura computacional de acuerdo con criterios previamente establecidos.",
+     "requirements": ["TC2005B", "TC2006B"]
+     "image": "https://www.iberext.com/wp-content/uploads/2023/04/sistemas_de_seguridad_Iberext_1800x1043.jpg"
+    },
+    {
+        "id": "TC2008B",
+        "name": "Modelación de sistemas multiagentes con gráficas computacionales",
+        "description": "Es un curso de nivel intermedio en tecnologías computacionales con enfoque en la implementación de modelos computacionales, generación de modelos computacionales, pensamiento sistémico y demostración del funcionamiento de los sistemas computacionales; lo anterior mediante el estudio de elementos como agentes inteligentes y simulación en tiempo real con gráficas computacionales que permiten conocer y aplicar herramientas para la visualización en tiempo real del resultado de  simulación multiagentes. Requiere conocimientos previos de Programación Orientada a Objetos y habilidades básicas en el manejo de un motor de desarrollo de video juegos. Como resultado del aprendizaje el alumno desarrollr productos de software interconectados en tiempo real que permitan la simulación de un sistema multiagentes y, por otro lado, la visualización animada del resultado de dicha simulación.",
+        "requirements": ["TC2037"],
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F57516503%2F144328031-55548b4f-78bc-46dd-b970-a05ddf1930f2.gif"
+    },
+    {
+        "id": "TC2038",
+        "name": "Análisis y diseño de algoritmos avanzados",
+        "description": "Es un curso de nivel intermedio en tecnologías computacionales, con enfoque en estructuras de datos y algoritmos avanzados, tomando en cuenta el análisis de complejidad. Requiere conocimientos previos de estructura de datos y análisis de algoritmos fundamentales. Como resultado del aprendizaje, el alumno propone soluciones eficientes utilizando técnicas de diseño de algoritmos avanzados sobre manejo de cadenas de caracteres, grafos, geometría computacional y búsqueda avanzada.",
+        "requirements": ["TC2037"],
+        "image": "https://img.freepik.com/fotos-premium/desarrollo-algoritmos-matematicos-avanzados-optimizacion-financiera-concepto-algoritmos-matematicos-optimizacion-financiera-desarrollo-avanzado-algoritmo-analisis-datos-implementacion_918839-119155.jpg"
+    }
+]
