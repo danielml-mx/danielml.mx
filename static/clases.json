@@ -2,7 +2,7 @@
     {"id": "TC2007B",
      "name": "Integración de seguridad informática en redes y sistemas de software",
      "description": "Es un curso de nivel intermedio en tecnologías computacionales que incluye temas de ingeniería de software, seguridad en redes y desarrollo de aplicaciones móviles. Tiene como intención desarrollar en los alumnos competencias de configuración y validación de infraestructura computacional, integración de seguridad en proyectos computacionales, diseño y desarrollo de componentes de software, elaboración de pruebas de software, implantación de software, administración de proyectos computacionales, desarrollo de escenarios y compromiso ético y ciudadano. Requiere conocimientos previos de conceptos básicos de redes, metodologías de desarrollo de software y un nivel medio de programación orientada a objetos en lenguajes de alto nivel. Como resultado del aprendizaje, el alumno propone soluciones que integran seguridad en sistemas de software e infraestructura computacional de acuerdo con criterios previamente establecidos.",
-     "requirements": ["TC2005B", "TC2006B"]
+     "requirements": ["TC2005B", "TC2006B"],
      "image": "https://www.iberext.com/wp-content/uploads/2023/04/sistemas_de_seguridad_Iberext_1800x1043.jpg"
     },
     {
