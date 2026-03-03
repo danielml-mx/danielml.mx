@@ -76,7 +76,7 @@ icon = "link"
 identifier = "youtube"
 name = "YouTube"
 url = "https://youtube.com/@danielml_mx"
-weight = 1
+weight = 2
 
 [social.params]
 icon = "brand-youtube"
@@ -88,13 +88,13 @@ url = "https://github.com/danielml-mx"
 weight = 3
 
 [social.params]
-icon = "brand-github"
+icon = "brand-github2"
 
 [[social]]
 identifier = "leetcode"
 name = "Leetcode"
 url = "https://leetcode.com/u/danielml-mx/"
-weight = 2
+weight = 1
 
 [social.params]
 icon = "brand-leetcode"
