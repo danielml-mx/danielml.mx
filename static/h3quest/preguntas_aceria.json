@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿De qué están hechas las puntas de los lápices?",
+        "options": ["Carbón", "Diamante", "Grafito", "Corindón"],
+        "answer": "Grafito"
+    },
+    {
+        "id": 2,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Para qué se extrae la cromita?",
+        "options": ["Para obtener cobre", "Para obtener manganeso", "Para obtener cromo"],
+        "answer": "Para obtener cromo"
+    },
+    {
+        "id": 3,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿De qué elementos está hecho el hielo",
+        "options": ["Agua y roca", "Hidrógeno y oxígeno", "Hidrógeno y carbón"],
+        "answer": "Hidrógeno y oxígeno"
+    },
+    {
+        "id": 4,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Qué elemento se busca extraer de la cuprita?",
+        "options": ["Cobre", "Cupper", "Comal"],
+        "answer": "Cobre"
+    },
+    {
+        "id": 5,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Qué es la rayadura de un mineral?",
+        "options": ["Los fans de rayados auuu", "El color de la marca que deja un mineral cuando raspa una superficie", "Tendencia de un mineral a separarse"],
+        "answer": "El color de la marca que deja un mineral cuando raspa una superficie",
+        "explanation": "Es el color de la marca que deja un mineral al rasparlo sobre una loseta dura. Es una buena pista para poderlo identificar, ya que siempre ocurre lo mismo."
+    },
+    {
+        "id": 6,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Qué es el clivaje de un mineral?",
+        "options": ["Como el mineral refleja la luz", "El color de la marca que deja un mineral cuando raspa una superficie", "Tendencia a separarse en piezas de superficie plana"],
+        "answer": "Tendencia a separarse en piezas de superficie plana",
+        "explanation": "Es la tendencia de un mineral a separarse en piezas de superficie plana. Que el mineral tenga un clivaje bueno, regular o malo (o ninguno) depende de cómo están acomodados los átomos en el mineral y cómo se mantienen unidos."
+    },
+    {
+        "id": 7,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Qué es el lustre de un mineral?",
+        "options": ["Como el mineral refleja la luz", "El color de la marca que deja un mineral cuando raspa una superficie", "Tendencia a separarse en piezas de superficie plana"],
+        "answer": "Como el mineral refleja la luz",
+        "explanation": "Es la manera como la superficie del mineral refleja la luz. Si el mineral brilla como un metal decimos que tiene lustre metálico. Si se ve ceroso, grasoso, vidrioso, aperlado u opaco, decimos que tiene un lustre no metálico."
+    },
+    {
+        "id": 8,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Qué es la dureza de un mineral?",
+        "options": ["Como el mineral refleja la luz", "El color de la marca que deja un mineral cuando raspa una superficie", "Tendencia a separarse en piezas de superficie plana", "La medida de qué tal difícil es rayar el mineral"],
+        "answer": "La medida de qué tal difícil es rayar el mineral"
+    },
+    {
+        "id": 9,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿De dónde proviene gran parte de la piedra caliza que se usa para fabricar acero?",
+        "options": ["De la piedra de las minas", "Del arrabio que sobra", "De las conchas y huesos de criaturas del océano"],
+        "answer": "La medida de qué tal difícil es rayar el mineral"
+    },
+    {
+        "id": 10,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "La piedra caliza es más útil mientras más .... sea.",
+        "options": ["Pequeña", "Grande", "Dura", "Suave"],
+        "answer": "Pequeña",
+        "explanation": "Muchas piezas pequeñas tienen más área de superficie que una pieza grande, lo cual permite mayor contacto con otros materiales. Eso hace que las reacciones ocurran con más rapidez."
+    },
+    {
+        "id": 11,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Cuál es la ventaja del coque sobre el carbón?",
+        "options": ["Quema el material más rápido", "Quema el material más lento", "Aguanta el peso del hierro"],
+        "answer": "Aguanta el peso del hierro",
+        "explanation": "Si quemáramos carbón en el alto horno se juntaría todo en una masa pegajosa y bloquearía el flujo del aire. Por eso convertimos el carbón en coque, horneándolo sin aire para extraerle los aceites y el alquitrán y dejar el carbono casi puro. Dentro del horno, debajo del gran peso del mineral, el coque conserva su tamaño y forma."
+    },
+    {
+        "id": 12,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Por qué queremos usar menos coque?",
+        "options": ["Quema el material más rápido", "Produce muchas emisiones contaminantes", "Quema el material más lento", "Es muy caro"],
+        "answer": "Produce muchas emisiones contaminantes",
+        "explanation": "El coque es una fuente de energía útil para el alto horno, pero la producción de coque es una fuente de contaminación."
+    },
+    {
+        "id": 13,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "Si habían viejas culturas que no sabían minar pero tenían hierro, ¿cómo lo obtuvieron?",
+        "options": ["Rezando", "Del cielo", "De su sangre"],
+        "answer": "Del cielo",
+        "explanation": "¡Es cierto! Meteoritos de hierro de repente caían del cielo, los cuales eran utilizados para hacer herramientas."
+    },
+    {
+        "id": 14,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Qué son los elementos reactivos?",
+        "options": ["Elementos que dan miedo", "Elementos que explotan", "Elementos que se combinan fácilmente", "Elementos que causan reacciones en la piel"],
+        "answer": "Elementos que se combinan fácilmente",
+        "hint1": "El hierro es un de estos."
+    },
+    {
+        "id": 15,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Cuál de estos elementos frecuentemente se encuentra en el lápiz labial?",
+        "options": ["Magnetita", "Hierro", "Hematita"],
+        "answer": "Hematita"
+    },
+    {
+        "id": 16,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Cuál solía ser la función principal de la magnetita?",
+        "options": ["Juntar grandes metales juntos", "Hacer que las brújulas funcionaran", "Aguantar grandes edificios"],
+        "answer": "Hacer que las brújulas funcionaran"
+    },
+    {
+        "id": 17,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Cuáles son los dos grandes Cinturones de Hierro de México?",
+        "options": ["Cinturón del Norte y Cinturón del Sur", "Cinturón del Poniente y Cinturón del Oriente", "Cinturón La Perla y Cinturón Aquila"],
+        "answer": "Cinturón del Norte y Cinturón del Sur"
+    },
+    {
+        "id": 18,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Qué tipo de hierro se encuentra principalmente en el Cinturón del Sur?",
+        "options": ["Acero", "Magnetita", "Hematita", "Arrabio"],
+        "answer": "Magnetita"
+    },
+    {
+        "id": 19,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Qué tipo de hierro se encuentra principalmente en el Cinturón del Norte?",
+        "options": ["Acero", "Magnetita", "Hematita", "Arrabio"],
+        "answer": "Hematita"
+    },
+    {
+        "id": 20,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Cuál de los siguientes NO es un depósito de hierro del Cinturón del Norte?",
+        "options": ["Hércules", "La Perla", "Lázaro Cárdenas"],
+        "answer": "Lázaro Cárdenas"
+    },
+    {
+        "id": 21,
+        "questKey": "aceria",
+        "type": "MC",
+        "text": "¿Qué tipo de hierro suele encontrarse más profundamente debajo de la superficie?",
+        "options": ["Acero", "Magnetita", "Hematita", "Arrabio"],
+        "answer": "Magnetita"
+    }
+]

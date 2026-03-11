@@ -1,0 +1,134 @@
+[
+    {
+        "id": 101,
+        "questKey": "historia",
+        "type": "MC",
+        "text": "¿En qué siglo comienza la producción de acero a escala industrial en México?",
+        "options": ["XX", "XVIII", "XIX"],
+        "answer": "XIX",
+        "explanation": "La producción de acero a escala industrial en México comenzó a finales del siglo XIX gracias a los avances ferroviarios."
+    },
+    {
+        "id": 102,
+        "questKey": "historia",
+        "type": "MC",
+        "text": "¿Cuál de los siguientes NO fue un fundador de la Fundidora?",
+        "options": ["Eugenio Kelly", "León Signorey", "Eugenio Garza Sada"],
+        "answer": "Eugenio Garza Sada"
+    },
+    {
+        "id": 103,
+        "questKey": "historia",
+        "type": "MC",
+        "text": "¿En qué año abrió la Fundidora?",
+        "options": ["1850", "1900", "1911"],
+        "answer": "1900", 
+        "explanation": ""
+    },
+    {
+        "id": 104,
+        "questKey": "historia",
+        "type": "MC",
+        "text": "¡Busca el póster del trabajador Anatolio! ¿A qué hora entraba a trabajar a la Fundidora?",
+        "options": ["9AM", "8AM", "6AM"],
+        "answer": "6AM"
+    },
+    {
+        "id": 105,
+        "questKey": "historia",
+        "type": "MC",
+        "text": "¿Qué evento histórico nacional irrumpió con la constante producción de acero en la Fundidora?",
+        "options": ["La Segunda Guerra Mundial", "La Independencia Mexicana", "La Revolución Mexicana"],
+        "answer": "La Revolución Mexicana"
+    },
+    {
+        "id": 106,
+        "questKey": "historia",
+        "type": "MC",
+        "text": "¿Qué efecto tuvieron los ataques a los trenes y a las vías en la Fundidora?",
+        "options": ["Atacaron la Fundidora", "El alto horno se enfrió y dañó", "El alto horno se apagó durante meses"],
+        "answer": "El alto horno se apagó durante meses",
+        "explanation": "Las interrupciones frecuentes en el servicio de los ferrocarriles hacían más difícil que la Fundidora pudiera abastecerse de materia prima de las minas. Al no contar con un abasto constante de minerales, el alto horno se apagaba durante meses."
+    },
+    {
+        "id": 107,
+        "questKey": "historia",
+        "type": "MC",
+        "text": "¿Qué pasa terminando la Revolución que ayuda a los trabajadores?",
+        "options": ["Los patrones aumentan el salario", "Se abre la frontera con Estados Unidos", "La Constitución reconoce los derechos laborales"],
+        "answer": "La Constitución reconoce los derechos laborales",
+        "explanation": "Al término de la Revolución, la Constitución de 1917 reconoció algunos derechos de los trabajadores: se legisló la jornada de ocho horas, la semana laboral de seis días y el derecho a la huelga. A partir de entonces, los obreros y la empresa tuvieron bases para negociar."
+    },
+    {
+        "id": 108,
+        "questKey": "historia",
+        "type": "MC",
+        "text": "¡Pregunta sorpresa! ¿Cuál es la mascota que se encuentra en el logo de la radio en esta exposición?",
+        "options": ["Un perro", "Un gato", "Un elefante", "Un pez"],
+        "answer": "Un perro"
+    },
+    {
+        "id": 109,
+        "questKey": "historia",
+        "type": "MC",
+        "text": "¿Cuántas toneladas de acero produjo la Fundidora en 1920?",
+        "options": ["23,000", "20,300", "32,000"],
+        "answer": "32,000",
+        "explanation": "En 1920, la Fundidora produjo treinta y dos mil toneladas de acero."
+    },
+    {
+        "id": 110,
+        "questKey": "historia",
+        "type": "MC",
+        "text": "¿Qué le pasó a la Fundidora después de la Revolución?",
+        "options": ["Tuvo que cerrar", "Nunca se recuperó del todo", "Prosperó más que nunca"],
+        "answer": "Prosperó más que nunca",
+        "explanation": "Con una larga lista de clientes en las nuevas obras de construcción, Fundidora tenía razones para crecer."
+    },
+    {
+        "id": 111,
+        "questKey": "historia",
+        "type": "MC",
+        "text": "¿Qué empresa comenzó a hacerle competencia a la Fundidora?",
+        "options": ["Cervecería Cuauhtémoc", "HYLSA", "Consolidated Rolling Mills & Foundries"],
+        "answer": "Consolidated Rolling Mills & Foundries",
+        "explanation": "Lo que había comenzado como una pequeña fundición de hierro en la Ciudad de México en 1907 llegó a convertirse en una planta de acero totalmente integrada. Con el tiempo, Consolidated Rolling Mills & Foundries se expandió. En 1921 la compañía abrió una segunda planta en Piedras Negras."
+    },
+    {
+        "id": 112,
+        "questKey": "historia",
+        "type": "MC",
+        "text": "¿Qué era la Maestranza?",
+        "options": ["Una gran maestra", "Una escuela técnica", "Un show de magia"],
+        "answer": "Una escuela técnica",
+        "explanation": "La Maestranza creó talleres de adiestramiento y una nocturna para desarrollar habilidades técnicas."
+    },
+    {
+        "id": 113,
+        "questKey": "historia",
+        "type": "MC",
+        "text": "¡Busca el póster de Manuel! ¿Cómo podía uno entrar a trabajar en la Fundidora?",
+        "options": ["Después de un extenso proceso de selección", "Así namás", "Al pasar una prueba física"],
+        "answer": "Una escuela técnica",
+        "explanation": "'En aquella época no había examen, no había entrevista, ni nada.'"
+    },
+    {
+        "id": 114,
+        "questKey": "historia",
+        "type": "MC",
+        "text": "¿Cuál fue el primer edificio alto de la Ciudad de México?",
+        "options": ["Monumento a la Revolución", "Torre TOP", "Torre BBVA", "La Nacional"],
+        "answer": "La Nacional",
+        "explanation": "El primer edificio alto de la Ciudad de México fue La Nacional, construido en 1932. Su esqueleto de acero sólido soporta el peso de doce pisos. Fundidora suministró el acero para este edificio, y para muchos más que todavía existen por todo México."
+    },
+    {
+        "id": 115,
+        "questKey": "historia",
+        "type": "MC",
+        "text": "¿Qué evento importante para la Fundidora ocurrió en 1934?",
+        "options": ["Hubo un gran accidente en el horno", "La Fundidora tuvo su año más productivo", "Se formó el Sindicato Nacional de Trabajadores Mineros, Metalúrgicos y Similares"],
+        "answer": "Se formó el Sindicato Nacional de Trabajadores Mineros, Metalúrgicos y Similares",
+        "explanation": "En 1934 se formó el Sindicato Nacional de Trabajadores Mineros, Metalúrgicos y Similares de la República Mexicana (SNTMMSRM), que respaldó las demandas de trabajadores en otras fundiciones. Los trabajadores de Fundidora se unieron en 1936 como la Sección 67."
+    }
+
+]
