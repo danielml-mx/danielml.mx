@@ -88,7 +88,7 @@ url = "https://github.com/danielml-mx"
 weight = 3
 
 [social.params]
-icon = "brand-github2"
+icon = "brand-github"
 
 [[social]]
 identifier = "leetcode"
