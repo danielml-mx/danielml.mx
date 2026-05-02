@@ -1,5 +1,5 @@
 ---
-title: 'ME DECLARO FIRMEMENTE EN CONTRA DE LOS NERDOS'
+title: 'Contra el intelectualismo performativo'
 date: '2025-07-26T00:00:00-06:00'
 tags: [personal,  "filosofía 👨‍👩‍👦"]      # "linux 🐧"
               # "tecnología 💻"
@@ -8,7 +8,7 @@ tags: [personal,  "filosofía 👨‍👩‍👦"]      # "linux 🐧"
               # "filosofía 👨‍👩‍👦"
               # "política 📜"
 toc: false
-draft: false
+draft: true
 image: 'nerd-2.jpg'
 ---
 
