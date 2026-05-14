@@ -16,7 +16,7 @@
 
     <!--
     <section class="powerby">
-        {{ range .Site.Data.quotes.quote | shuffle | first 1 }}
+        {{ range hugo.Data.quotes.quote | shuffle | first 1 }}
         <div style="width: 100%;"> 
             <p style="font-style: italic">{{.quote}}</p>
         </div>

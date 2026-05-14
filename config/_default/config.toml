@@ -1,6 +1,7 @@
 # Change baseurl before deploy
 baseurl = "https://danielml.mx"
-languageCode = "es-mx"
+#languageCode = "es-mx"
+locale = "es-mx"
 title = "Daniel Muñoz Lozano"
 
 # Theme i18n support
