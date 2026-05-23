@@ -1,6 +1,6 @@
 ---
 title: 'Librebooting a Thinkpad X200 (2022 Edition)'
-date: '2026-05-17T06:09:31-06:00'
+date: '2026-05-18T06:09:31-06:00'
 tags: ["linux 🐧",  "tecnología 💻"]
               # "linux 🐧"
               # "tecnología 💻"
