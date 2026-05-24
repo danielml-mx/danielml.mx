@@ -1,5 +1,5 @@
 ---
-title: 'Pan y fútbol'
+title: 'Pan y circo'
 date: '2026-05-23T00:00:00-06:00'
 tags: ["política 📜"]
               # "linux 🐧"
@@ -70,7 +70,9 @@ cual la medida fue retraída después de una fuerte reacción general. Y con jus
 razón, considerando el rezago educativo generado a raíz de la pandemia y en un
 país en el cual aun sin pandemia la educación pública siempre ha sido así:
 
+<div style="text-align: center">
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F2340420606468629%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+</div>
 
 Más allá de si finalmente se implementó el cambio o no, es el hecho de que se
 tomaron una idea tan burda tan seriamente lo que me parece particularmente
