@@ -83,7 +83,8 @@ boot
 
 Now you can unmount the drive and plug it into your Thinkpad. Once you\'ve booted into the Lenovo utility, make sure you select the second option, \"Update system program\". From there on out it\'s pretty intuitive, just follow the instructions and return to the menu to try and update again. If it tells you that there\'s nothing more to do, you\'re all set.
 
-#### Custom EC firmware{Custom_EC_firmware}
+#### Custom EC firmware{#Custom_EC_firmware}
+
 
 ##### Context{Context}
 
@@ -127,7 +128,7 @@ Remove the keyboard by gently pushing it towards the screen and then upwards. Di
 
 The SPI chip is located a bit to the left, right below where the palm rest was:
 
-### Setting up the Pi{Setting_up_the_Pi}
+### Setting up the Pi{#Setting_up_the_Pi}
 
 The first thing you\'re going to want to do is download and unzip the image file of Raspberry Pi OS to burn it unto the SD card. You can get it from [here](https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-32-bit) and do it manually or be efficient and do:
 
@@ -179,7 +180,7 @@ cp hackrom/flashrom .
 
 Your Pi is now ready to flash. **Power it off for now to safely connect the clip to it and then to the motherboard.**
 
-### Connecting the clip{Connecting_the_clip}
+### Connecting the clip{#Connecting_the_clip}
 
 #### Preparing the cheap clip{#Preparing_the_cheap_clip}
 
@@ -320,9 +321,9 @@ You should tinker with it a bit. The binary file you\'re probably going to use t
 ```
 
 
-#### Using SeaBIOS with harbour.sh{#Using_SeaBIOS_with_harbour_sh} [^5]
+#### Using SeaBIOS with harbour.sh{#Using_SeaBIOS_with_harbour_sh}
 
-Looking around I found [this](https://gitlab.com/man-with-arrow/harbour) script called `harbour.sh` that can modify the stable releases of Libreboot (which, for the most part, use GRUB only) to add SeaBIOS to the ROM, effectively turning it from a `grub` ROM to a `seabios_withgrub` ROM. The script is very well made and even takes care of downloading the correct ROM for you. If for some reason you want to use SeaBIOS instead of GRUB, then you might want to consider doing this.
+[^5]Looking around I found [this](https://gitlab.com/man-with-arrow/harbour) script called `harbour.sh` that can modify the stable releases of Libreboot (which, for the most part, use GRUB only) to add SeaBIOS to the ROM, effectively turning it from a `grub` ROM to a `seabios_withgrub` ROM. The script is very well made and even takes care of downloading the correct ROM for you. If for some reason you want to use SeaBIOS instead of GRUB, then you might want to consider doing this.
 
 ### Editing the Libreboot ROM{#Editing_the_Libreboot_ROM}
 
@@ -527,4 +528,4 @@ Now, **unplup the Pi from power first**, then unclip the chip. Connect the X200 
 
 [^4]: At the time of porting over this guide to my new website, NotABug seems to be down. This is a recurring issue, so Libreboot now has a [Codeberg repo](https://codeberg.org/libreboot/lbmk) for `lbmk`. The NotABug link provided may or may not work, depending on whether the service is up.
 
-[^5]: See #3. That sidenote is pointless now.
+[^5]: See #3. That small section is pointless now.
