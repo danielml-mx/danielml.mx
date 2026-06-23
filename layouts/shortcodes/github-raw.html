@@ -1,0 +1,6 @@
+{{ $url := .Get "url" }}
+{{ $lang := .Get "lang" | default "sh" }}
+
+{{ with resources.GetRemote $url }}
+  {{ highlight .Content $lang "" }}
+{{ end }}
