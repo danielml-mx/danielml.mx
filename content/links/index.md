@@ -20,7 +20,7 @@ image = "https://upload.wikimedia.org/wikipedia/commons/c/c5/YouTube_social_red_
 title = "GitHub"
 description = "Aquí puedes encontrar el código de mis proyectos."
 website = "https://github.com/danielml-mx"
-image = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Codicons_%E2%80%93_github-inverted.svg/960px-Codicons_%E2%80%93_github-inverted.svg.png"
+image = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Github_logo_svg.svg/960px-Github_logo_svg.svg.png"
 
 #[[links]]
 #title = "Dicho & Derecho"
