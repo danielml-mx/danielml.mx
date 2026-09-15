@@ -1,6 +1,6 @@
 ---
 title: 'Prohibir las escuelas militares es una mala idea'
-date: '2026-08-13T15:20:12-06:00'
+date: '2026-08-18T15:20:12-06:00'
 tags: ["opinión 💭"]
               # "linux 🐧"
               # "tecnología 💻"

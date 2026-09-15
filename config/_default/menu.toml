@@ -76,7 +76,7 @@ icon = "link"
 identifier = "youtube"
 name = "YouTube"
 url = "https://youtube.com/@danielml_mx"
-weight = 2
+weight = 1
 
 [social.params]
 icon = "brand-youtube"
@@ -85,17 +85,26 @@ icon = "brand-youtube"
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/danielml-mx"
-weight = 3
+weight = 2
 
 [social.params]
 icon = "brand-github"
 
+#[[social]]
+#identifier = "leetcode"
+#name = "Leetcode"
+#url = "https://leetcode.com/u/danielml-mx/"
+#weight = 1
+#
+#[social.params]
+#icon = "brand-leetcode"
+
 [[social]]
-identifier = "leetcode"
-name = "Leetcode"
-url = "https://leetcode.com/u/danielml-mx/"
-weight = 1
+identifier = "mastodon"
+name = "Mastodon"
+url = "https://mastodon.social/@danielml_mx"
+weight = 3
 
 [social.params]
-icon = "brand-leetcode"
+icon = "brand-mastodon"
 
