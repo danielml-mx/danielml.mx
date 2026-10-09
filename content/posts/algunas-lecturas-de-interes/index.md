@@ -61,10 +61,14 @@ periódicamente cuando encuentra algo interesante que quiera añadir.
         - <u>Nota personal</u>: Si bien contiene ideas importantes, rechazo por completo la tesis principal de este
           ensayo. El primer artículo es un excelente contrapunto.
 
-- [ Too Many Young Men Don’t Know How to Be a Gentleman ](https://ifstudies.org/blog/too-many-young-men-dont-know-how-to-be-a-gentleman) --- Leonard Sax
+- [The Great Feminization](https://www.compactmag.com/article/the-great-feminization/) --- Helen Andrews
+    - *"Everything you think of as wokeness involves prioritizing the feminine over the masculine: empathy over rationality, safety over risk, cohesion over competition."*
+
+- [Too Many Young Men Don’t Know How to Be a Gentleman](https://ifstudies.org/blog/too-many-young-men-dont-know-how-to-be-a-gentleman) --- Leonard Sax
     - *"How is it possible that these men, all students at an Ivy League college, saw nothing wrong in taking sexual advantage of an intoxicated woman?"*
 
         - En mi opinión, el mejor análisis detrás de las causas del reciente escándalo ocurrido en Cornell.
+
 
 <!--- 
 - [Pump and Dump](https://radishmag.wordpress.com/2014/02/14/pump-and-dump/) --- Radish Mag
