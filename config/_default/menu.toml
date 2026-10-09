@@ -36,13 +36,23 @@ identifier = "archives"
 icon = "archives"
 
 [[main]]
+name = "Favoritos"
+url = "/tags/favoritos-/"
+weight = 5
+identifier = "favoritos"
+
+[main.params]
+icon = "star-2"
+
+[[main]]
 name = "Ligas"
 url = "/links"
-weight = 5
+weight = 6
 identifier = "links"
 
 [main.params]
 icon = "link"
+
 
 
 

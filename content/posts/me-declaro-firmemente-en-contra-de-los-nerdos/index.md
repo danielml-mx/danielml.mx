@@ -1,7 +1,7 @@
 ---
 title: 'Contra el intelectualismo performativo'
 date: '2025-07-26T00:00:00-06:00'
-tags: [personal,  "filosofía 👨‍👩‍👦"]      # "linux 🐧"
+tags: ["opinión 💭"]      # "linux 🐧"
               # "tecnología 💻"
               # "religión ✝️"
               # "personal"

@@ -4,7 +4,7 @@ date: '{{ .Date }}'
 tags: []      # "linux 🐧"
               # "tecnología 💻"
               # "religión ✝️"
-              # "personal"
+              # "favoritos ⭐"
               # "filosofía 👨‍👩‍👦"
               # "política 📜"
               # "opinión 💭"

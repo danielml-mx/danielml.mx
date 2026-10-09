@@ -1,7 +1,7 @@
 ---
-title: 'Algunas lecturas de interés, 2026'
+title: 'Lecturas de interés'
 date: '2026-10-08'
-tags: ["filosofía 👨‍👩‍👦", "política 📜", "tecnología 💻"]    
+tags: ["favoritos ⭐", "filosofía 👨‍👩‍👦", "política 📜", "tecnología 💻"]    
               # "linux 🐧"
               # "tecnología 💻"
               # "religión ✝️"
