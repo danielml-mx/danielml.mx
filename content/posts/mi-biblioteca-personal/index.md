@@ -25,11 +25,15 @@ he pirateado digitalmente. Aun así, los libros que decido adquirir físicamente
 es porque tienen un lugar especial en mi corazón, especialmente aquellos
 resaltados.
 
+**Actualmente leyendo:** Breve historia de México
+
 ### B --- Filosofía, psicología, religión
 
 - *Biblia "Dios Habla Hoy" (con Deuterocanónicos)*
+    - La biblia que obtuve con mi primera comunión.
 - *Confesiones* --- San Agustín
 - *Dios sí. Iglesia no. Respuestas fáciles a preguntas difíciles para jóvenes* --- Julio Muñoz López de Carrizosa, LC
+    - Regalo de un Padre Legionaro algo reconocido aquí en Monterrey.
 - *Discurso del método y Meditaciones metafísicas* --- René Descartes
 - *Imitación de Cristo* --- Tomás de Kempis
 - *Manual del guerrero de la luz* --- Paulo Coelho
@@ -40,12 +44,19 @@ resaltados.
 - *Atomic Habits* --- James Clear
 - *Deja de ser tú* --- Joe Dispenza
 - *Flow: The Psychology of Optimal Experience* --- Mihaly Csikszentmihalyi
+    - Un clásico y un libro muy recomendado para quienes son artistas de corazón.
 - *How to Win Friends & Influence People* --- Dale Carnegie
+    - Bastante inspirador al principio, luego un poco manipulador. Los primeros
+      capítulos valen la pena.
 - *Iron John* --- Robert Bly
+    - Muy aburrido, no lo terminé, quizá lo revisite en un futuro.
 - *King, Warrior, Magician, Lover: Rediscovering the Archetype of the Mature Masculine* --- Robert Moore & Douglas Gillette
+    - Más "new age-y" y menos profundo y serio de lo que esperaba.
 - *La inteligencia emocional* --- Daniel Goleman
 - ***Manhood in the Making: Cultural Concepts of Masculinity* --- David D. Gilmore**
+    - Una investigación sobre lo que significa ser un hombre a través de culturas por todas partes del mundo. Una lectura sumamente interesante y de los mejores trabajos antropológicos que he leído.
 - *Skin in the Game: Hidden Asymmetries in Daily Life* --- Nassim Nicholas Taleb
+    - Me ha cambiado la perspectiva respecto de muchas cosas, y ha vocalizado mis sentimientos respecto de quién realmente merece respeto y quiénes no son más que actores.
 - *The Six Pillars of Self-Esteem* --- Nathaniel Branden
 - *What's Your Dream?* --- Simon Squibb
 
@@ -55,6 +66,7 @@ resaltados.
 ### C --- Ciencias de la historia
 - *La rebelión de las masas* --- José Ortega y Gasset
 - *Sapiens: De animales a dioses* --- Yuval Noah Harari
+    - Overrated.
 
 ### F --- Historia de las Américas
 - *Breve historia de México* --- José Vasconcelos
@@ -75,23 +87,27 @@ resaltados.
 
 ### P --- Lenguaje y literatura
 - ***1984* --- George Orwell**
+    - Hasta la fecha la mejor novela que 
 - *El alquimista* --- Paulo Coelho
 - *El lobo estepario* --- Herman Hesse
 - *Fahrenheit 451* --- Ray Bradbury
 - ***Inferno* --- Dante Alighieri (traducción de John Ciardi)**
 - *Los hermanos Karamazov* --- Fyodor Mikhaylovich Dostoyevskiy
 - ***Purgatorio* --- Dante Alighieri (traducción de John Ciardi)**
+    - La joya de la corona es el *Paradiso* por ser el más hermoso, el más popular es el *Inferno* por ser el más turbio, pero en lo personal mi favorito es el *Purgatorio* por lidiar con la vida penitente terrenal.
 - ***Paradiso* --- Dante Alighieri (traducción de John Ciardi)**
 
 *![La Divina Commedia](comedia-600.png)*
 
 ### Q --- Ciencias
 - *Antifragile: Things That Gain From Disorder* --- Nassim Nicholas Taleb
+    - ¡Soy antifrágil!
 - *Steve Jobs* --- Karen Blumenthal
 - *The Black Swan: The Impact of the Highly Improbable* --- Nassim Nicholas Taleb
 
 ### R --- Medicina
 - *Life at the Bottom: The Worldview that Makes the Underclass* --- Theodore Dalrymple
+    - Una crítica sincera a la mentalidad y el sistema que mantienen a la gente en la pobreza en países desarrollados.
 
 ### U --- Ciencias militares
 - *The Art of War* --- Sun Tzu
