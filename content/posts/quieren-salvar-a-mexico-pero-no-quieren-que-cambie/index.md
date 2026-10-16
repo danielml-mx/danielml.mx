@@ -1,7 +1,7 @@
 ---
 title: 'Quieren salvar a México, pero no quieren que cambie'
 date: '2026-09-18T16:46:04-06:00'
-tags: ["opinión 💭"]
+tags: ["opinión 🤔"]
               # "linux 🐧"
               # "tecnología 💻"
               # "religión ✝️"

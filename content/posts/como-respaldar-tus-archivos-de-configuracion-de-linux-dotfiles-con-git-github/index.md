@@ -1,7 +1,7 @@
 ---
 title: 'Cómo respaldar tus archivos de configuración de Linux (dotfiles) con Git/Github'
 date: '2025-08-12T21:44:30-06:00'
-tags: [ "linux 🐧",  "tecnología 💻"]      # "linux 🐧"
+tags: ["tecnología 💻"]      # "linux 🐧"
               # "tecnología 💻"
               # "religión ✝️"
               # "personal"

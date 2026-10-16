@@ -1,13 +1,11 @@
 ---
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 date: '{{ .Date }}'
-tags: []      # "linux 🐧"
+tags: []
               # "tecnología 💻"
-              # "religión ✝️"
               # "favoritos ⭐"
-              # "filosofía 👨‍👩‍👦"
-              # "política 📜"
-              # "opinión 💭"
+              # "opinión 🤔"
+              # "reflexiones 💭"
 readingTime: true
 toc: false
 draft: true

@@ -1,7 +1,8 @@
 ---
 title: 'How to Fix Spotify Notifications in Linux'
 date: '2026-06-23T14:22:53-06:00'
-tags: ["linux 🐧"]      # "linux 🐧"
+tags: ["tecnología 💻"]
+              # "linux 🐧"
               # "tecnología 💻"
               # "religión ✝️"
               # "personal"

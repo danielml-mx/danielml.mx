@@ -1,7 +1,7 @@
 ---
 title: 'Pan y circo'
 date: '2026-05-23T00:00:00-06:00'
-tags: ["política 📜"]
+tags: ["opinión 🤔"]
               # "linux 🐧"
               # "tecnología 💻"
               # "religión ✝️"

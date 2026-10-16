@@ -1,7 +1,7 @@
 ---
 title: '¿Por qué molestarse con Linux?'
 date: '2025-09-10T08:49:35-06:00'
-tags: ["linux 🐧", "tecnología 💻"]    
+tags: ["tecnología 💻"]    
               # "linux 🐧"
               # "tecnología 💻"
               # "religión ✝️"

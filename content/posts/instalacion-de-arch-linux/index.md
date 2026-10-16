@@ -4,7 +4,7 @@ draft = false
 title = 'Instalación de Arch Linux'
 toc = true
 image = "arch-install.png"
-tags = ["tecnología 💻", "linux 🐧"]
+tags = ["tecnología 💻"]
 +++
 
 A continuación presento una lista de los comandos utilizados en [mi video guía de instalación de Arch Linux](https://youtu.be/rDiilGzZNsE).

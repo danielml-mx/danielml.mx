@@ -2,7 +2,7 @@
 date = '2024-12-18T00:12:11-06:00'
 draft = false
 title = '1984, George Orwell - Thoughts'
-tags = ["filosofía 👨‍👩‍👦", "política 📜"]
+tags = [ "opinión 🤔"]
 +++
 
 <p style="text-align: center"><i>Esta es una de mis publicaciones viejas, escrita a finales de 2021.</i></p>

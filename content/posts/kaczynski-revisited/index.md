@@ -1,7 +1,7 @@
 ---
 title: 'Kaczynski Revisited'
 date: '2025-03-17T19:08:45-06:00'
-tags: ["tecnología 💻", "filosofía 👨‍👩‍👦"]      
+tags: []      
               # "linux 🐧"
               # "tecnología 💻"
               # "religión ✝️"

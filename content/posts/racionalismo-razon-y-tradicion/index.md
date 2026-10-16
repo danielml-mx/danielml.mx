@@ -1,7 +1,7 @@
 ---
 title: 'Racionalismo, razón y tradición'
 date: '2025-02-21T12:26:24-06:00'
-tags: ["filosofía 👨‍👩‍👦"]
+tags: [ "opinión 🤔"]
               # "linux 🐧"
               # "tecnología 💻"
               # "religión ✝️"

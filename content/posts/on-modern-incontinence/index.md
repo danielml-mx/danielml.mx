@@ -4,7 +4,7 @@ draft = false
 title = 'On Modern Incontinence'
 toc = false
 image = "tinbergen.png"
-tags = ["filosofía 👨‍👩‍👦"]
+tags = ["opinión 🤔"]
 +++
 
 <p style="text-align: center"><i>Esta es una de mis publicaciones viejas, escrita a finales del 2021. Me da un poco de cringe el estilo con el cual escribía antes, pero igual decido publicarla.</i></p>

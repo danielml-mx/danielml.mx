@@ -1,8 +1,7 @@
 ---
 title: 'Herramientas y programas que uso'
 date: '2026-10-08'
-tags: ["linux 🐧",
-       "tecnología 💻",
+tags: ["tecnología 💻",
        "favoritos ⭐"]
 toc: false
 draft: false

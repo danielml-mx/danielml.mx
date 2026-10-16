@@ -1,7 +1,7 @@
 ---
 title: 'Lecturas de interés'
 date: '2026-10-08'
-tags: ["favoritos ⭐", "filosofía 👨‍👩‍👦", "política 📜", "tecnología 💻"]    
+tags: ["favoritos ⭐"]    
               # "linux 🐧"
               # "tecnología 💻"
               # "religión ✝️"

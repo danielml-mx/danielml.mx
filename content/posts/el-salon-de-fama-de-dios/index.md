@@ -1,11 +1,11 @@
 +++
 date = '2024-12-13T09:58:18-06:00'
-draft = true
+draft = false
 title = 'El salón de fama de Dios'
-tags = ["religión ✝️"]
+tags = []
 +++
 
-Lo que procede es mi intento de traducir al español uno de mis poemas contemporáneos favoritos, *God's Hall of Fame*, tradicionalmente adjudicado a Alf Hutchinson, mantentiendo una métrica decasílaba constante y sin rima. Quizá para la próxima intente traducir la versión extendida, narrada por Jim Caviezel en *The Sound of Freedom*[^1].
+Lo que procede es mi intento de traducir al español el poema *God's Hall of Fame*, narrado en parte por Jim Caviezel en *The Sound of Freedom*, tradicionalmente adjudicado a Alf Hutchinson, mantentiendo una métrica decasílaba constante y sin rima.
 
 <div style='text-align: center;'>
 
@@ -50,5 +50,3 @@ Prefiero un donnadie ser aquí
 ¡y mi nombre ahí arriba encontrar!  
 </div>
 
-
-[^1]: Película sobrevalorada por cierto, pero al menos el poema es bueno.

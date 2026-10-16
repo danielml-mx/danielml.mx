@@ -3,7 +3,7 @@ date = '2024-12-13T17:13:36-06:00'
 draft = false
 title = 'WPA Supplicant - A Practical Guide'
 image = "cover.png"
-tags = ["linux 🐧"]
+tags = ["tecnología 💻"]
 +++
 
 <!DOCTYPE html>

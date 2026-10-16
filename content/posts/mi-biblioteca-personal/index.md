@@ -1,5 +1,5 @@
 ---
-date:  '2026-10-08'
+date:  '2026-10-09'
 draft: false
 title: 'Mi biblioteca personal'
 tags: ["favoritos ⭐"]    
@@ -25,7 +25,7 @@ he pirateado digitalmente. Aun así, los libros que decido adquirir físicamente
 es porque tienen un lugar especial en mi corazón, especialmente aquellos
 resaltados.
 
-**Actualmente leyendo:** Breve historia de México
+**Actualmente leyendo:** Breve historia de México, José Vasconcelos
 
 ### B --- Filosofía, psicología, religión
 
@@ -33,7 +33,7 @@ resaltados.
     - La biblia que obtuve con mi primera comunión.
 - *Confesiones* --- San Agustín
 - *Dios sí. Iglesia no. Respuestas fáciles a preguntas difíciles para jóvenes* --- Julio Muñoz López de Carrizosa, LC
-    - Regalo de un Padre Legionaro algo reconocido aquí en Monterrey.
+    - Regalo de un Padre Legionario algo reconocido aquí en Monterrey.
 - *Discurso del método y Meditaciones metafísicas* --- René Descartes
 - *Imitación de Cristo* --- Tomás de Kempis
 - *Manual del guerrero de la luz* --- Paulo Coelho
