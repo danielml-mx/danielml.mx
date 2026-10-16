@@ -12,7 +12,7 @@ tags: [ "reflexiones 💭"]
               # "reflexiones 💭"
 readingTime: true
 toc: false
-draft: true
+draft: false
 ---
 
 *"Reflexiones" es un tag que estaré usando para denotar publicaciones que son breves fragmentos provenientes de mi cuaderno de apuntes personales, a veces extensamente modificados para volverlos más presentables y filtrar información de terceros. Son un vistazo a mi vida más personal.*
