@@ -12,7 +12,7 @@ tags: [ "reflexiones 💭"]
               # "reflexiones 💭"
 readingTime: true
 toc: false
-draft: false
+draft: true
 ---
 
 *"Reflexiones" es un tag que estaré usando para denotar publicaciones que son breves fragmentos provenientes de mi cuaderno de apuntes personales, a veces extensamente modificados para volverlos más presentables y filtrar información de terceros. Son un vistazo a mi vida más personal.*
@@ -25,4 +25,4 @@ No puedo detener mi vida sólo por una niña. La realidad es que, incluso contra
 
 Sé que lo que acabo de escribir es contradictorio, pero hay una razón. Lo que quiero es aventura, peligro y libertad, pero muy probablemente lo que necesito es estabilidad, seguridad y compromiso. Una buena niña podría ser razón suficientemente poderosa y convincente para finalmente desear lo necesario. Es, en realidad, la historia de la Bella y la Bestia contada desde la perspectiva de la Bestia.
 
-Aun así, no puedo evitar sentir que algo en ello es... castroso, emasculante, como estar dispuesto a ser menos viril a fin de complacer a una mujer, o supongo que sería más preciso decir que es como estar dispuesto a ser viril de una manera diferente a fin de complacer a una mujer ---parece ser que hoy en día sólo el arquetipo masculino del billonario es socialmente aceptable y cotizado, mientras que el resto es retrógrada y problemático. Desafortunadamente, no todos estamos hechos para ser billonarios. Algunos de nosotros ni siquiera pueden elegir su carrera bien.
+Aun así, no puedo evitar sentir que algo en ello es... castrante, emasculante, como estar dispuesto a ser menos viril a fin de complacer a una mujer, o supongo que sería más preciso decir que es como estar dispuesto a ser viril de una manera diferente a fin de complacer a una mujer ---parece ser que hoy en día sólo el arquetipo masculino del billonario es socialmente aceptable y cotizado, mientras que el resto es retrógrada y problemático. Desafortunadamente, no todos estamos hechos para ser billonarios. Algunos de nosotros ni siquiera pueden elegir su carrera bien.
