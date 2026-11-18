@@ -1,6 +1,6 @@
 ---
 title: 'Lecturas de interés'
-date: '2026-10-08'
+date: '2026-11-17'
 tags: ["favoritos ⭐"]    
               # "linux 🐧"
               # "tecnología 💻"
@@ -64,11 +64,7 @@ periódicamente cuando encuentra algo interesante que quiera añadir.
 - [The Great Feminization](https://www.compactmag.com/article/the-great-feminization/) --- Helen Andrews
     - *"Everything you think of as wokeness involves prioritizing the feminine over the masculine: empathy over rationality, safety over risk, cohesion over competition."*
 
-- [Too Many Young Men Don’t Know How to Be a Gentleman](https://ifstudies.org/blog/too-many-young-men-dont-know-how-to-be-a-gentleman) --- Leonard Sax
-    - *"How is it possible that these men, all students at an Ivy League college, saw nothing wrong in taking sexual advantage of an intoxicated woman?"*
-
-        - En mi opinión, el mejor análisis detrás de las causas del reciente escándalo ocurrido en Cornell.
-
+- [Why Does the Manosphere Attract Young Men?](https://ifstudies.org/blog/why-does-the-manosphere-attract-young-men) --- Aaron M. Renn
 
 <!--- 
 - [Pump and Dump](https://radishmag.wordpress.com/2014/02/14/pump-and-dump/) --- Radish Mag
